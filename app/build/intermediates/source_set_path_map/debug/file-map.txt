@@ -1,0 +1,38 @@
+com.smartdental.care.app-lifecycle-process-2.8.4-0 C:\Users\Neda Anjum\.gradle\caches\transforms-3\1b1b0f30eb5265f533a5655d1dd181b5\transformed\lifecycle-process-2.8.4\res
+com.smartdental.care.app-profileinstaller-1.3.1-1 C:\Users\Neda Anjum\.gradle\caches\transforms-3\314c2af84362deb2aed8512bcfed5161\transformed\profileinstaller-1.3.1\res
+com.smartdental.care.app-annotation-experimental-1.4.0-2 C:\Users\Neda Anjum\.gradle\caches\transforms-3\363b118b782f91ac27f3c553fc9ac417\transformed\annotation-experimental-1.4.0\res
+com.smartdental.care.app-emoji2-views-helper-1.2.0-3 C:\Users\Neda Anjum\.gradle\caches\transforms-3\3e2da2ae5a3bedbea9d626cb53cec340\transformed\emoji2-views-helper-1.2.0\res
+com.smartdental.care.app-activity-1.8.0-4 C:\Users\Neda Anjum\.gradle\caches\transforms-3\440663af5b7924d1b5df08869d2430b6\transformed\activity-1.8.0\res
+com.smartdental.care.app-appcompat-resources-1.6.1-5 C:\Users\Neda Anjum\.gradle\caches\transforms-3\45b8b686f550f5fc073749c5b2270343\transformed\appcompat-resources-1.6.1\res
+com.smartdental.care.app-core-runtime-2.2.0-6 C:\Users\Neda Anjum\.gradle\caches\transforms-3\4d97ab5b4450bd24527543fc28cda95f\transformed\core-runtime-2.2.0\res
+com.smartdental.care.app-lifecycle-livedata-core-ktx-2.8.4-7 C:\Users\Neda Anjum\.gradle\caches\transforms-3\5229ae5acb9410b33ab1e962429ad244\transformed\lifecycle-livedata-core-ktx-2.8.4\res
+com.smartdental.care.app-savedstate-1.2.1-8 C:\Users\Neda Anjum\.gradle\caches\transforms-3\56ad119c44651cbc581b3a7553d69fe6\transformed\savedstate-1.2.1\res
+com.smartdental.care.app-core-1.12.0-9 C:\Users\Neda Anjum\.gradle\caches\transforms-3\5db2b505a31b793bd324959698e0065f\transformed\core-1.12.0\res
+com.smartdental.care.app-startup-runtime-1.1.1-10 C:\Users\Neda Anjum\.gradle\caches\transforms-3\5e2acfd383a055a3167e85f7966259e3\transformed\startup-runtime-1.1.1\res
+com.smartdental.care.app-cardview-1.0.0-11 C:\Users\Neda Anjum\.gradle\caches\transforms-3\6d689c7085e723d2351664a05595856d\transformed\cardview-1.0.0\res
+com.smartdental.care.app-browser-1.8.0-12 C:\Users\Neda Anjum\.gradle\caches\transforms-3\70fe84f68e54dbc0c7b3151cb0f3cc5b\transformed\browser-1.8.0\res
+com.smartdental.care.app-lifecycle-viewmodel-ktx-2.8.4-13 C:\Users\Neda Anjum\.gradle\caches\transforms-3\7c64d6bf4274cd36316f6eff406c88d7\transformed\lifecycle-viewmodel-ktx-2.8.4\res
+com.smartdental.care.app-fragment-1.3.6-14 C:\Users\Neda Anjum\.gradle\caches\transforms-3\8468b36e2c0fcf20b4b2dc18befc6b16\transformed\fragment-1.3.6\res
+com.smartdental.care.app-drawerlayout-1.1.1-15 C:\Users\Neda Anjum\.gradle\caches\transforms-3\914699772a3318637c193326125999cc\transformed\drawerlayout-1.1.1\res
+com.smartdental.care.app-lifecycle-runtime-release-16 C:\Users\Neda Anjum\.gradle\caches\transforms-3\9368d5572292d64e1a53e6fd94854a24\transformed\lifecycle-runtime-release\res
+com.smartdental.care.app-lifecycle-livedata-core-2.8.4-17 C:\Users\Neda Anjum\.gradle\caches\transforms-3\9ecfda37c2e85d01cd4e34d5c8445839\transformed\lifecycle-livedata-core-2.8.4\res
+com.smartdental.care.app-lifecycle-viewmodel-savedstate-2.8.4-18 C:\Users\Neda Anjum\.gradle\caches\transforms-3\a212970b6641810074b0dceea1b5b71c\transformed\lifecycle-viewmodel-savedstate-2.8.4\res
+com.smartdental.care.app-lifecycle-viewmodel-release-19 C:\Users\Neda Anjum\.gradle\caches\transforms-3\a3970d280658d86e888c87b3f929681e\transformed\lifecycle-viewmodel-release\res
+com.smartdental.care.app-lifecycle-livedata-ktx-2.8.4-20 C:\Users\Neda Anjum\.gradle\caches\transforms-3\a5ce25531fd11459e7819283a40f6732\transformed\lifecycle-livedata-ktx-2.8.4\res
+com.smartdental.care.app-appcompat-1.6.1-21 C:\Users\Neda Anjum\.gradle\caches\transforms-3\b1ddf2622883fe527777886760efcd28\transformed\appcompat-1.6.1\res
+com.smartdental.care.app-viewpager2-1.0.0-22 C:\Users\Neda Anjum\.gradle\caches\transforms-3\bc406b31ffd594eedc6a407330ea110a\transformed\viewpager2-1.0.0\res
+com.smartdental.care.app-transition-1.2.0-23 C:\Users\Neda Anjum\.gradle\caches\transforms-3\c3601f60d94396414df3f7ed5c8dc6de\transformed\transition-1.2.0\res
+com.smartdental.care.app-emoji2-1.2.0-24 C:\Users\Neda Anjum\.gradle\caches\transforms-3\c89e8dedd0bd3e567527b2fcd2e1b489\transformed\emoji2-1.2.0\res
+com.smartdental.care.app-constraintlayout-2.1.4-25 C:\Users\Neda Anjum\.gradle\caches\transforms-3\dc410120b9559c7e13a8fa643a08813f\transformed\constraintlayout-2.1.4\res
+com.smartdental.care.app-lifecycle-livedata-2.8.4-26 C:\Users\Neda Anjum\.gradle\caches\transforms-3\dd71c8eeb0f5ea2e3eb23b83ab13d56d\transformed\lifecycle-livedata-2.8.4\res
+com.smartdental.care.app-material-1.11.0-27 C:\Users\Neda Anjum\.gradle\caches\transforms-3\eda1e774c0f553359a7454045b76bd5c\transformed\material-1.11.0\res
+com.smartdental.care.app-core-ktx-1.12.0-28 C:\Users\Neda Anjum\.gradle\caches\transforms-3\f08378fcb0d1bc15607b62ca56d34e6b\transformed\core-ktx-1.12.0\res
+com.smartdental.care.app-coordinatorlayout-1.1.0-29 C:\Users\Neda Anjum\.gradle\caches\transforms-3\f6d8a4ae17c758bf5e1339ad6f37d9d3\transformed\coordinatorlayout-1.1.0\res
+com.smartdental.care.app-recyclerview-1.1.0-30 C:\Users\Neda Anjum\.gradle\caches\transforms-3\fd517cdb2c48fe965fe7d7771cabcbd7\transformed\recyclerview-1.1.0\res
+com.smartdental.care.app-pngs-31 C:\Users\Neda Anjum\Downloads\PDD PROJECT\app\build\generated\res\pngs\debug
+com.smartdental.care.app-resValues-32 C:\Users\Neda Anjum\Downloads\PDD PROJECT\app\build\generated\res\resValues\debug
+com.smartdental.care.app-packageDebugResources-33 C:\Users\Neda Anjum\Downloads\PDD PROJECT\app\build\intermediates\incremental\debug\packageDebugResources\merged.dir
+com.smartdental.care.app-packageDebugResources-34 C:\Users\Neda Anjum\Downloads\PDD PROJECT\app\build\intermediates\incremental\debug\packageDebugResources\stripped.dir
+com.smartdental.care.app-merged_res-35 C:\Users\Neda Anjum\Downloads\PDD PROJECT\app\build\intermediates\merged_res\debug
+com.smartdental.care.app-debug-36 C:\Users\Neda Anjum\Downloads\PDD PROJECT\app\src\debug\res
+com.smartdental.care.app-main-37 C:\Users\Neda Anjum\Downloads\PDD PROJECT\app\src\main\res

@@ -1,0 +1,107 @@
+<?xml version="1.0" encoding="utf-8"?>
+<manifest xmlns:android="http://schemas.android.com/apk/res/android"
+    package="com.smartdental.care">
+
+    <uses-permission android:name="android.permission.INTERNET" />
+    <uses-permission android:name="android.permission.RECORD_AUDIO" />
+    <uses-permission android:name="android.permission.POST_NOTIFICATIONS" />
+    <uses-permission android:name="android.permission.SCHEDULE_EXACT_ALARM" />
+    <uses-permission android:name="android.permission.USE_EXACT_ALARM" />
+    <uses-permission android:name="android.permission.VIBRATE" />
+    <uses-permission android:name="android.permission.RECEIVE_BOOT_COMPLETED" />
+
+    <application
+        android:name=".SmartDentalApp"
+        android:allowBackup="true"
+        android:icon="@mipmap/ic_launcher"
+        android:label="@string/app_name"
+        android:roundIcon="@mipmap/ic_launcher_round"
+        android:supportsRtl="true"
+        android:theme="@style/Theme.SmartDentalCare"
+        android:usesCleartextTraffic="true">
+
+        <activity
+            android:name=".ui.splash.SplashActivity"
+            android:exported="true"
+            android:theme="@style/Theme.SmartDentalCare">
+            <intent-filter>
+                <action android:name="android.intent.action.MAIN" />
+                <category android:name="android.intent.category.LAUNCHER" />
+            </intent-filter>
+        </activity>
+
+        <activity android:name=".ui.onboarding.OnboardingActivity" />
+        <activity android:name=".ui.onboarding.ConsentActivity" />
+
+        <activity
+            android:name=".ui.login.DoctorLoginActivity"
+            android:exported="false"
+            android:windowSoftInputMode="adjustResize" />
+
+        <activity android:name=".ui.login.SignUpActivity" />
+        <activity android:name=".ui.login.ForgotPasswordActivity" />
+        <activity android:name=".ui.login.EmailOtpActivity" />
+        <activity android:name=".ui.login.VerifyOtpActivity" />
+        <activity android:name=".ui.login.ResetPasswordActivity" />
+
+        <!--
+          AuthCallbackActivity intercepts the magic link when the user taps
+          the "Sign In" button in their email.
+          URL scheme: smartdental://auth/callback
+        -->
+        <activity
+            android:name=".ui.login.AuthCallbackActivity"
+            android:exported="true"
+            android:launchMode="singleTask">
+
+            <!-- OTP / Magic Link login -->
+            <intent-filter>
+                <action android:name="android.intent.action.VIEW" />
+                <category android:name="android.intent.category.DEFAULT" />
+                <category android:name="android.intent.category.BROWSABLE" />
+                <data
+                    android:scheme="smartdental"
+                    android:host="auth"
+                    android:pathPrefix="/callback" />
+            </intent-filter>
+
+            <!-- Password Reset link -->
+            <intent-filter>
+                <action android:name="android.intent.action.VIEW" />
+                <category android:name="android.intent.category.DEFAULT" />
+                <category android:name="android.intent.category.BROWSABLE" />
+                <data
+                    android:scheme="smartdental"
+                    android:host="auth"
+                    android:pathPrefix="/reset" />
+            </intent-filter>
+
+        </activity>
+
+        <activity android:name=".ui.dashboard.DoctorDashboardActivity" />
+        <activity android:name=".ui.dashboard.PatientRecordsActivity" />
+
+        <activity android:name=".ui.appointments.AppointmentsActivity" />
+        <activity android:name=".ui.appointments.PatientDetailActivity" />
+        <activity android:name=".ui.appointments.RegistrationActivity" />
+        <activity android:name=".ui.appointments.SignatureActivity" />
+        <activity android:name=".ui.appointments.ChartingActivity" />
+        <activity android:name=".ui.appointments.DoctorSpeechToTextActivity" />
+        <activity android:name=".ui.appointments.StlScanActivity" />
+        <activity android:name=".ui.appointments.DentalPhotoComparisonActivity" />
+        <activity android:name=".ui.appointments.BillingActivity" />
+        <activity android:name=".ui.dashboard.DoctorProfileActivity" />
+        <activity android:name=".ui.appointments.PrescriptionActivity" />
+        <activity android:name=".ui.appointments.PaymentSuccessActivity" />
+        <activity android:name=".ui.appointments.PatientNotesActivity" />
+        <activity android:name=".ui.appointments.OnlineConsultationActivity" />
+        <activity android:name=".ui.appointments.PatientReportsActivity" />
+
+        <!-- Reminder alarm receiver -->
+        <receiver
+            android:name=".util.ReminderReceiver"
+            android:exported="false" />
+
+    </application>
+
+</manifest>

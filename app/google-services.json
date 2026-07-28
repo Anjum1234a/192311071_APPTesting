@@ -1,0 +1,30 @@
+{
+  "project_info": {
+    "project_number": "646729111220",
+    "firebase_url": "https://clinnident-default-rtdb.firebaseio.com",
+    "project_id": "clinnident",
+    "storage_bucket": "clinnident.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:646729111220:android:7c0b426f83053b5eba29e1",
+        "android_client_info": {
+          "package_name": "com.smartdental.care"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCXcXAOYVkwPj6h_mXGHSDscgbRFOMNbk4"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

@@ -1,0 +1,37 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:gravity="center"
+    android:orientation="vertical"
+    android:padding="24dp">
+
+    <ImageView
+        android:id="@+id/ivIllustration"
+        android:layout_width="200dp"
+        android:layout_height="200dp"
+        android:src="@drawable/ic_shield_secure" />
+
+    <TextView
+        android:id="@+id/tvTitle"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_marginTop="40dp"
+        android:text="Secure Dental Records"
+        android:textAlignment="center"
+        android:textColor="@color/slate_900"
+        android:textSize="26sp"
+        android:textStyle="bold" />
+
+    <TextView
+        android:id="@+id/tvContent"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_marginTop="20dp"
+        android:lineSpacingExtra="4dp"
+        android:text="- Your X-rays and treatment records are protected\n- Safe cloud storage\n- Secure doctor-patient access only"
+        android:textAlignment="center"
+        android:textColor="@color/slate_500"
+        android:textSize="16sp" />
+
+</LinearLayout>

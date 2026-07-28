@@ -1,0 +1,562 @@
+-- Merging decision tree log ---
+manifest
+ADDED from C:\Users\Neda Anjum\Downloads\PDD PROJECT\app\src\main\AndroidManifest.xml:2:1-107:12
+INJECTED from C:\Users\Neda Anjum\Downloads\PDD PROJECT\app\src\main\AndroidManifest.xml:2:1-107:12
+INJECTED from C:\Users\Neda Anjum\Downloads\PDD PROJECT\app\src\main\AndroidManifest.xml:2:1-107:12
+INJECTED from C:\Users\Neda Anjum\Downloads\PDD PROJECT\app\src\main\AndroidManifest.xml:2:1-107:12
+MERGED from [androidx.databinding:viewbinding:8.2.2] C:\Users\Neda Anjum\.gradle\caches\transforms-3\5e559a96aaee1355e8422fb9a02aac93\transformed\viewbinding-8.2.2\AndroidManifest.xml:2:1-7:12
+MERGED from [com.google.android.material:material:1.11.0] C:\Users\Neda Anjum\.gradle\caches\transforms-3\eda1e774c0f553359a7454045b76bd5c\transformed\material-1.11.0\AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.constraintlayout:constraintlayout:2.1.4] C:\Users\Neda Anjum\.gradle\caches\transforms-3\dc410120b9559c7e13a8fa643a08813f\transformed\constraintlayout-2.1.4\AndroidManifest.xml:2:1-11:12
+MERGED from [androidx.appcompat:appcompat-resources:1.6.1] C:\Users\Neda Anjum\.gradle\caches\transforms-3\45b8b686f550f5fc073749c5b2270343\transformed\appcompat-resources-1.6.1\AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.appcompat:appcompat:1.6.1] C:\Users\Neda Anjum\.gradle\caches\transforms-3\b1ddf2622883fe527777886760efcd28\transformed\appcompat-1.6.1\AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.emoji2:emoji2-views-helper:1.2.0] C:\Users\Neda Anjum\.gradle\caches\transforms-3\3e2da2ae5a3bedbea9d626cb53cec340\transformed\emoji2-views-helper-1.2.0\AndroidManifest.xml:2:1-7:12
+MERGED from [androidx.emoji2:emoji2:1.2.0] C:\Users\Neda Anjum\.gradle\caches\transforms-3\c89e8dedd0bd3e567527b2fcd2e1b489\transformed\emoji2-1.2.0\AndroidManifest.xml:17:1-35:12
+MERGED from [androidx.viewpager2:viewpager2:1.0.0] C:\Users\Neda Anjum\.gradle\caches\transforms-3\bc406b31ffd594eedc6a407330ea110a\transformed\viewpager2-1.0.0\AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.fragment:fragment:1.3.6] C:\Users\Neda Anjum\.gradle\caches\transforms-3\8468b36e2c0fcf20b4b2dc18befc6b16\transformed\fragment-1.3.6\AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.activity:activity:1.8.0] C:\Users\Neda Anjum\.gradle\caches\transforms-3\440663af5b7924d1b5df08869d2430b6\transformed\activity-1.8.0\AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.drawerlayout:drawerlayout:1.1.1] C:\Users\Neda Anjum\.gradle\caches\transforms-3\914699772a3318637c193326125999cc\transformed\drawerlayout-1.1.1\AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.coordinatorlayout:coordinatorlayout:1.1.0] C:\Users\Neda Anjum\.gradle\caches\transforms-3\f6d8a4ae17c758bf5e1339ad6f37d9d3\transformed\coordinatorlayout-1.1.0\AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.dynamicanimation:dynamicanimation:1.0.0] C:\Users\Neda Anjum\.gradle\caches\transforms-3\74fbc87f162745dc65f718de5a005a12\transformed\dynamicanimation-1.0.0\AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.transition:transition:1.2.0] C:\Users\Neda Anjum\.gradle\caches\transforms-3\c3601f60d94396414df3f7ed5c8dc6de\transformed\transition-1.2.0\AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.vectordrawable:vectordrawable-animated:1.1.0] C:\Users\Neda Anjum\.gradle\caches\transforms-3\36ac8cd3dc60eff5bbc73d2fbce25605\transformed\vectordrawable-animated-1.1.0\AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.vectordrawable:vectordrawable:1.1.0] C:\Users\Neda Anjum\.gradle\caches\transforms-3\f808716fa31c756da072603a211f6153\transformed\vectordrawable-1.1.0\AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.viewpager:viewpager:1.0.0] C:\Users\Neda Anjum\.gradle\caches\transforms-3\81a23dafa540fb6fb5f28a9c6583404e\transformed\viewpager-1.0.0\AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.legacy:legacy-support-core-utils:1.0.0] C:\Users\Neda Anjum\.gradle\caches\transforms-3\9c2ec2e1e32fc02ea7ba685546e9daa7\transformed\legacy-support-core-utils-1.0.0\AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.loader:loader:1.0.0] C:\Users\Neda Anjum\.gradle\caches\transforms-3\1bd10dd69f19ed93bf3c944446ed044f\transformed\loader-1.0.0\AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.recyclerview:recyclerview:1.1.0] C:\Users\Neda Anjum\.gradle\caches\transforms-3\fd517cdb2c48fe965fe7d7771cabcbd7\transformed\recyclerview-1.1.0\AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.customview:customview:1.1.0] C:\Users\Neda Anjum\.gradle\caches\transforms-3\e5ec4fe824ba1757e9ec0b8bfb5a15b2\transformed\customview-1.1.0\AndroidManifest.xml:17:1-24:12
+MERGED from [io.github.jan-tennert.supabase:postgrest-kt-android-debug:2.6.1] C:\Users\Neda Anjum\.gradle\caches\transforms-3\5ce14b1886ba00f8540cccb85a0e40e3\transformed\postgrest-kt-debug\AndroidManifest.xml:2:1-7:12
+MERGED from [io.github.jan-tennert.supabase:storage-kt-android-debug:2.6.1] C:\Users\Neda Anjum\.gradle\caches\transforms-3\bf75a5c547635f14504ac0f973682f30\transformed\storage-kt-debug\AndroidManifest.xml:2:1-20:12
+MERGED from [io.github.jan-tennert.supabase:gotrue-kt-android-debug:2.6.1] C:\Users\Neda Anjum\.gradle\caches\transforms-3\0d5941bec1fb58ac95c285e19e0ead1c\transformed\gotrue-kt-debug\AndroidManifest.xml:2:1-20:12
+MERGED from [androidx.browser:browser:1.8.0] C:\Users\Neda Anjum\.gradle\caches\transforms-3\70fe84f68e54dbc0c7b3151cb0f3cc5b\transformed\browser-1.8.0\AndroidManifest.xml:2:1-7:12
+MERGED from [androidx.core:core:1.12.0] C:\Users\Neda Anjum\.gradle\caches\transforms-3\5db2b505a31b793bd324959698e0065f\transformed\core-1.12.0\AndroidManifest.xml:17:1-30:12
+MERGED from [io.github.jan-tennert.supabase:supabase-kt-android-debug:2.6.1] C:\Users\Neda Anjum\.gradle\caches\transforms-3\15a3bec9840ab8b0e0a75967a77c2081\transformed\supabase-kt-debug\AndroidManifest.xml:2:1-7:12
+MERGED from [androidx.savedstate:savedstate:1.2.1] C:\Users\Neda Anjum\.gradle\caches\transforms-3\56ad119c44651cbc581b3a7553d69fe6\transformed\savedstate-1.2.1\AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.lifecycle:lifecycle-viewmodel:2.8.4] C:\Users\Neda Anjum\.gradle\caches\transforms-3\2e462fa3bf90f3073f1cff16afc8a6c7\transformed\lifecycle-viewmodel-2.8.4\AndroidManifest.xml:2:1-5:12
+MERGED from [androidx.lifecycle:lifecycle-viewmodel-android:2.8.4] C:\Users\Neda Anjum\.gradle\caches\transforms-3\a3970d280658d86e888c87b3f929681e\transformed\lifecycle-viewmodel-release\AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.lifecycle:lifecycle-runtime-android:2.8.4] C:\Users\Neda Anjum\.gradle\caches\transforms-3\9368d5572292d64e1a53e6fd94854a24\transformed\lifecycle-runtime-release\AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.lifecycle:lifecycle-viewmodel-ktx:2.8.4] C:\Users\Neda Anjum\.gradle\caches\transforms-3\7c64d6bf4274cd36316f6eff406c88d7\transformed\lifecycle-viewmodel-ktx-2.8.4\AndroidManifest.xml:2:1-7:12
+MERGED from [androidx.lifecycle:lifecycle-livedata-ktx:2.8.4] C:\Users\Neda Anjum\.gradle\caches\transforms-3\a5ce25531fd11459e7819283a40f6732\transformed\lifecycle-livedata-ktx-2.8.4\AndroidManifest.xml:2:1-7:12
+MERGED from [androidx.lifecycle:lifecycle-livedata-core-ktx:2.8.4] C:\Users\Neda Anjum\.gradle\caches\transforms-3\5229ae5acb9410b33ab1e962429ad244\transformed\lifecycle-livedata-core-ktx-2.8.4\AndroidManifest.xml:2:1-7:12
+MERGED from [androidx.lifecycle:lifecycle-livedata-core:2.8.4] C:\Users\Neda Anjum\.gradle\caches\transforms-3\9ecfda37c2e85d01cd4e34d5c8445839\transformed\lifecycle-livedata-core-2.8.4\AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.lifecycle:lifecycle-livedata:2.8.4] C:\Users\Neda Anjum\.gradle\caches\transforms-3\dd71c8eeb0f5ea2e3eb23b83ab13d56d\transformed\lifecycle-livedata-2.8.4\AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.lifecycle:lifecycle-process:2.8.4] C:\Users\Neda Anjum\.gradle\caches\transforms-3\1b1b0f30eb5265f533a5655d1dd181b5\transformed\lifecycle-process-2.8.4\AndroidManifest.xml:17:1-35:12
+MERGED from [androidx.lifecycle:lifecycle-viewmodel-savedstate:2.8.4] C:\Users\Neda Anjum\.gradle\caches\transforms-3\a212970b6641810074b0dceea1b5b71c\transformed\lifecycle-viewmodel-savedstate-2.8.4\AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.core:core-ktx:1.12.0] C:\Users\Neda Anjum\.gradle\caches\transforms-3\f08378fcb0d1bc15607b62ca56d34e6b\transformed\core-ktx-1.12.0\AndroidManifest.xml:2:1-7:12
+MERGED from [com.russhwolf:multiplatform-settings-no-arg-android-debug:1.1.1] C:\Users\Neda Anjum\.gradle\caches\transforms-3\78bdc74b407637dc85cee9e5f6e6df48\transformed\multiplatform-settings-no-arg-debug\AndroidManifest.xml:17:1-35:12
+MERGED from [com.russhwolf:multiplatform-settings-coroutines-android-debug:1.1.1] C:\Users\Neda Anjum\.gradle\caches\transforms-3\40d2d7735cbe50d0d77543870b27c0d9\transformed\multiplatform-settings-coroutines-debug\AndroidManifest.xml:2:1-7:12
+MERGED from [androidx.annotation:annotation-experimental:1.4.0] C:\Users\Neda Anjum\.gradle\caches\transforms-3\363b118b782f91ac27f3c553fc9ac417\transformed\annotation-experimental-1.4.0\AndroidManifest.xml:2:1-7:12
+MERGED from [com.russhwolf:multiplatform-settings-android-debug:1.1.1] C:\Users\Neda Anjum\.gradle\caches\transforms-3\14662be9f0dc2a8905d890cc5e9e2984\transformed\multiplatform-settings-debug\AndroidManifest.xml:2:1-7:12
+MERGED from [co.touchlab:kermit-android-debug:2.0.4] C:\Users\Neda Anjum\.gradle\caches\transforms-3\bc3816eacbc7b542e4d74b24826a0302\transformed\kermit-debug\AndroidManifest.xml:2:1-7:12
+MERGED from [co.touchlab:kermit-core-android-debug:2.0.4] C:\Users\Neda Anjum\.gradle\caches\transforms-3\1f7cf31fca4afafa92d8c098fc2120c6\transformed\kermit-core-debug\AndroidManifest.xml:2:1-7:12
+MERGED from [androidx.cursoradapter:cursoradapter:1.0.0] C:\Users\Neda Anjum\.gradle\caches\transforms-3\56545f51ab14ed1915c81ff26b2ba668\transformed\cursoradapter-1.0.0\AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.cardview:cardview:1.0.0] C:\Users\Neda Anjum\.gradle\caches\transforms-3\6d689c7085e723d2351664a05595856d\transformed\cardview-1.0.0\AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.interpolator:interpolator:1.0.0] C:\Users\Neda Anjum\.gradle\caches\transforms-3\5420e7798e89edb16f49ba0e143fac3d\transformed\interpolator-1.0.0\AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.versionedparcelable:versionedparcelable:1.1.1] C:\Users\Neda Anjum\.gradle\caches\transforms-3\887e48aa02a845d4e67017898841d6b8\transformed\versionedparcelable-1.1.1\AndroidManifest.xml:17:1-27:12
+MERGED from [androidx.profileinstaller:profileinstaller:1.3.1] C:\Users\Neda Anjum\.gradle\caches\transforms-3\314c2af84362deb2aed8512bcfed5161\transformed\profileinstaller-1.3.1\AndroidManifest.xml:17:1-55:12
+MERGED from [androidx.startup:startup-runtime:1.1.1] C:\Users\Neda Anjum\.gradle\caches\transforms-3\5e2acfd383a055a3167e85f7966259e3\transformed\startup-runtime-1.1.1\AndroidManifest.xml:17:1-33:12
+MERGED from [androidx.tracing:tracing:1.0.0] C:\Users\Neda Anjum\.gradle\caches\transforms-3\a80a0ca99a1ca4340727a4af061ffcd6\transformed\tracing-1.0.0\AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.documentfile:documentfile:1.0.0] C:\Users\Neda Anjum\.gradle\caches\transforms-3\d3d311f2088bba6ec4b06ecb78789832\transformed\documentfile-1.0.0\AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.localbroadcastmanager:localbroadcastmanager:1.0.0] C:\Users\Neda Anjum\.gradle\caches\transforms-3\bb56b024af6b960041484b68d663db96\transformed\localbroadcastmanager-1.0.0\AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.print:print:1.0.0] C:\Users\Neda Anjum\.gradle\caches\transforms-3\19159d1e060e3ffac893e1b54426a624\transformed\print-1.0.0\AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.arch.core:core-runtime:2.2.0] C:\Users\Neda Anjum\.gradle\caches\transforms-3\4d97ab5b4450bd24527543fc28cda95f\transformed\core-runtime-2.2.0\AndroidManifest.xml:17:1-22:12
+MERGED from [com.soywiz.korlibs.krypto:krypto-android:4.0.10] C:\Users\Neda Anjum\.gradle\caches\transforms-3\24a5357f5da01e8becd3d264685fe0b8\transformed\krypto-debug\AndroidManifest.xml:2:1-9:12
+MERGED from [com.google.ai.edge.litert:litert-support:1.0.1] C:\Users\Neda Anjum\.gradle\caches\transforms-3\a0f70f8ed69abd2afe5139fd59afedbf\transformed\litert-support-1.0.1\AndroidManifest.xml:2:1-5:12
+MERGED from [com.google.ai.edge.litert:litert-support-api:1.0.1] C:\Users\Neda Anjum\.gradle\caches\transforms-3\adc7f3be2780551de4e00a04230dd543\transformed\litert-support-api-1.0.1\AndroidManifest.xml:2:1-5:12
+MERGED from [com.google.ai.edge.litert:litert:1.0.1] C:\Users\Neda Anjum\.gradle\caches\transforms-3\b7c170704f67bb4af0016e701394e6b5\transformed\litert-1.0.1\AndroidManifest.xml:2:1-11:12
+MERGED from [com.google.ai.edge.litert:litert-api:1.0.1] C:\Users\Neda Anjum\.gradle\caches\transforms-3\e5079f3c57caf10a521ca19d285c4e93\transformed\litert-api-1.0.1\AndroidManifest.xml:2:1-11:12
+MERGED from [com.google.android.odml:image:1.0.0-beta1] C:\Users\Neda Anjum\.gradle\caches\transforms-3\7dca3242b4e645cfac997d629bfc79e3\transformed\image-1.0.0-beta1\AndroidManifest.xml:2:1-9:12
+	package
+		ADDED from C:\Users\Neda Anjum\Downloads\PDD PROJECT\app\src\main\AndroidManifest.xml:3:5-35
+		INJECTED from C:\Users\Neda Anjum\Downloads\PDD PROJECT\app\src\main\AndroidManifest.xml
+	android:versionName
+		INJECTED from C:\Users\Neda Anjum\Downloads\PDD PROJECT\app\src\main\AndroidManifest.xml
+	android:versionCode
+		INJECTED from C:\Users\Neda Anjum\Downloads\PDD PROJECT\app\src\main\AndroidManifest.xml
+	xmlns:android
+		ADDED from C:\Users\Neda Anjum\Downloads\PDD PROJECT\app\src\main\AndroidManifest.xml:2:11-69
+uses-permission#android.permission.INTERNET
+ADDED from C:\Users\Neda Anjum\Downloads\PDD PROJECT\app\src\main\AndroidManifest.xml:5:5-67
+	android:name
+		ADDED from C:\Users\Neda Anjum\Downloads\PDD PROJECT\app\src\main\AndroidManifest.xml:5:22-64
+uses-permission#android.permission.RECORD_AUDIO
+ADDED from C:\Users\Neda Anjum\Downloads\PDD PROJECT\app\src\main\AndroidManifest.xml:6:5-71
+	android:name
+		ADDED from C:\Users\Neda Anjum\Downloads\PDD PROJECT\app\src\main\AndroidManifest.xml:6:22-68
+uses-permission#android.permission.POST_NOTIFICATIONS
+ADDED from C:\Users\Neda Anjum\Downloads\PDD PROJECT\app\src\main\AndroidManifest.xml:7:5-77
+	android:name
+		ADDED from C:\Users\Neda Anjum\Downloads\PDD PROJECT\app\src\main\AndroidManifest.xml:7:22-74
+uses-permission#android.permission.SCHEDULE_EXACT_ALARM
+ADDED from C:\Users\Neda Anjum\Downloads\PDD PROJECT\app\src\main\AndroidManifest.xml:8:5-79
+	android:name
+		ADDED from C:\Users\Neda Anjum\Downloads\PDD PROJECT\app\src\main\AndroidManifest.xml:8:22-76
+uses-permission#android.permission.USE_EXACT_ALARM
+ADDED from C:\Users\Neda Anjum\Downloads\PDD PROJECT\app\src\main\AndroidManifest.xml:9:5-74
+	android:name
+		ADDED from C:\Users\Neda Anjum\Downloads\PDD PROJECT\app\src\main\AndroidManifest.xml:9:22-71
+uses-permission#android.permission.VIBRATE
+ADDED from C:\Users\Neda Anjum\Downloads\PDD PROJECT\app\src\main\AndroidManifest.xml:10:5-66
+	android:name
+		ADDED from C:\Users\Neda Anjum\Downloads\PDD PROJECT\app\src\main\AndroidManifest.xml:10:22-63
+uses-permission#android.permission.RECEIVE_BOOT_COMPLETED
+ADDED from C:\Users\Neda Anjum\Downloads\PDD PROJECT\app\src\main\AndroidManifest.xml:11:5-81
+	android:name
+		ADDED from C:\Users\Neda Anjum\Downloads\PDD PROJECT\app\src\main\AndroidManifest.xml:11:22-78
+application
+ADDED from C:\Users\Neda Anjum\Downloads\PDD PROJECT\app\src\main\AndroidManifest.xml:13:5-105:19
+INJECTED from C:\Users\Neda Anjum\Downloads\PDD PROJECT\app\src\main\AndroidManifest.xml:13:5-105:19
+MERGED from [com.google.android.material:material:1.11.0] C:\Users\Neda Anjum\.gradle\caches\transforms-3\eda1e774c0f553359a7454045b76bd5c\transformed\material-1.11.0\AndroidManifest.xml:22:5-20
+MERGED from [com.google.android.material:material:1.11.0] C:\Users\Neda Anjum\.gradle\caches\transforms-3\eda1e774c0f553359a7454045b76bd5c\transformed\material-1.11.0\AndroidManifest.xml:22:5-20
+MERGED from [androidx.constraintlayout:constraintlayout:2.1.4] C:\Users\Neda Anjum\.gradle\caches\transforms-3\dc410120b9559c7e13a8fa643a08813f\transformed\constraintlayout-2.1.4\AndroidManifest.xml:9:5-20
+MERGED from [androidx.constraintlayout:constraintlayout:2.1.4] C:\Users\Neda Anjum\.gradle\caches\transforms-3\dc410120b9559c7e13a8fa643a08813f\transformed\constraintlayout-2.1.4\AndroidManifest.xml:9:5-20
+MERGED from [androidx.emoji2:emoji2:1.2.0] C:\Users\Neda Anjum\.gradle\caches\transforms-3\c89e8dedd0bd3e567527b2fcd2e1b489\transformed\emoji2-1.2.0\AndroidManifest.xml:23:5-33:19
+MERGED from [androidx.emoji2:emoji2:1.2.0] C:\Users\Neda Anjum\.gradle\caches\transforms-3\c89e8dedd0bd3e567527b2fcd2e1b489\transformed\emoji2-1.2.0\AndroidManifest.xml:23:5-33:19
+MERGED from [io.github.jan-tennert.supabase:storage-kt-android-debug:2.6.1] C:\Users\Neda Anjum\.gradle\caches\transforms-3\bf75a5c547635f14504ac0f973682f30\transformed\storage-kt-debug\AndroidManifest.xml:8:5-18:19
+MERGED from [io.github.jan-tennert.supabase:storage-kt-android-debug:2.6.1] C:\Users\Neda Anjum\.gradle\caches\transforms-3\bf75a5c547635f14504ac0f973682f30\transformed\storage-kt-debug\AndroidManifest.xml:8:5-18:19
+MERGED from [io.github.jan-tennert.supabase:gotrue-kt-android-debug:2.6.1] C:\Users\Neda Anjum\.gradle\caches\transforms-3\0d5941bec1fb58ac95c285e19e0ead1c\transformed\gotrue-kt-debug\AndroidManifest.xml:8:5-18:19
+MERGED from [io.github.jan-tennert.supabase:gotrue-kt-android-debug:2.6.1] C:\Users\Neda Anjum\.gradle\caches\transforms-3\0d5941bec1fb58ac95c285e19e0ead1c\transformed\gotrue-kt-debug\AndroidManifest.xml:8:5-18:19
+MERGED from [androidx.core:core:1.12.0] C:\Users\Neda Anjum\.gradle\caches\transforms-3\5db2b505a31b793bd324959698e0065f\transformed\core-1.12.0\AndroidManifest.xml:28:5-89
+MERGED from [androidx.core:core:1.12.0] C:\Users\Neda Anjum\.gradle\caches\transforms-3\5db2b505a31b793bd324959698e0065f\transformed\core-1.12.0\AndroidManifest.xml:28:5-89
+MERGED from [androidx.lifecycle:lifecycle-process:2.8.4] C:\Users\Neda Anjum\.gradle\caches\transforms-3\1b1b0f30eb5265f533a5655d1dd181b5\transformed\lifecycle-process-2.8.4\AndroidManifest.xml:23:5-33:19
+MERGED from [androidx.lifecycle:lifecycle-process:2.8.4] C:\Users\Neda Anjum\.gradle\caches\transforms-3\1b1b0f30eb5265f533a5655d1dd181b5\transformed\lifecycle-process-2.8.4\AndroidManifest.xml:23:5-33:19
+MERGED from [com.russhwolf:multiplatform-settings-no-arg-android-debug:1.1.1] C:\Users\Neda Anjum\.gradle\caches\transforms-3\78bdc74b407637dc85cee9e5f6e6df48\transformed\multiplatform-settings-no-arg-debug\AndroidManifest.xml:23:5-33:19
+MERGED from [com.russhwolf:multiplatform-settings-no-arg-android-debug:1.1.1] C:\Users\Neda Anjum\.gradle\caches\transforms-3\78bdc74b407637dc85cee9e5f6e6df48\transformed\multiplatform-settings-no-arg-debug\AndroidManifest.xml:23:5-33:19
+MERGED from [androidx.versionedparcelable:versionedparcelable:1.1.1] C:\Users\Neda Anjum\.gradle\caches\transforms-3\887e48aa02a845d4e67017898841d6b8\transformed\versionedparcelable-1.1.1\AndroidManifest.xml:24:5-25:19
+MERGED from [androidx.versionedparcelable:versionedparcelable:1.1.1] C:\Users\Neda Anjum\.gradle\caches\transforms-3\887e48aa02a845d4e67017898841d6b8\transformed\versionedparcelable-1.1.1\AndroidManifest.xml:24:5-25:19
+MERGED from [androidx.profileinstaller:profileinstaller:1.3.1] C:\Users\Neda Anjum\.gradle\caches\transforms-3\314c2af84362deb2aed8512bcfed5161\transformed\profileinstaller-1.3.1\AndroidManifest.xml:23:5-53:19
+MERGED from [androidx.profileinstaller:profileinstaller:1.3.1] C:\Users\Neda Anjum\.gradle\caches\transforms-3\314c2af84362deb2aed8512bcfed5161\transformed\profileinstaller-1.3.1\AndroidManifest.xml:23:5-53:19
+MERGED from [androidx.startup:startup-runtime:1.1.1] C:\Users\Neda Anjum\.gradle\caches\transforms-3\5e2acfd383a055a3167e85f7966259e3\transformed\startup-runtime-1.1.1\AndroidManifest.xml:25:5-31:19
+MERGED from [androidx.startup:startup-runtime:1.1.1] C:\Users\Neda Anjum\.gradle\caches\transforms-3\5e2acfd383a055a3167e85f7966259e3\transformed\startup-runtime-1.1.1\AndroidManifest.xml:25:5-31:19
+MERGED from [com.google.ai.edge.litert:litert:1.0.1] C:\Users\Neda Anjum\.gradle\caches\transforms-3\b7c170704f67bb4af0016e701394e6b5\transformed\litert-1.0.1\AndroidManifest.xml:9:5-20
+MERGED from [com.google.ai.edge.litert:litert:1.0.1] C:\Users\Neda Anjum\.gradle\caches\transforms-3\b7c170704f67bb4af0016e701394e6b5\transformed\litert-1.0.1\AndroidManifest.xml:9:5-20
+MERGED from [com.google.ai.edge.litert:litert-api:1.0.1] C:\Users\Neda Anjum\.gradle\caches\transforms-3\e5079f3c57caf10a521ca19d285c4e93\transformed\litert-api-1.0.1\AndroidManifest.xml:9:5-20
+MERGED from [com.google.ai.edge.litert:litert-api:1.0.1] C:\Users\Neda Anjum\.gradle\caches\transforms-3\e5079f3c57caf10a521ca19d285c4e93\transformed\litert-api-1.0.1\AndroidManifest.xml:9:5-20
+MERGED from [com.google.android.odml:image:1.0.0-beta1] C:\Users\Neda Anjum\.gradle\caches\transforms-3\7dca3242b4e645cfac997d629bfc79e3\transformed\image-1.0.0-beta1\AndroidManifest.xml:7:5-20
+MERGED from [com.google.android.odml:image:1.0.0-beta1] C:\Users\Neda Anjum\.gradle\caches\transforms-3\7dca3242b4e645cfac997d629bfc79e3\transformed\image-1.0.0-beta1\AndroidManifest.xml:7:5-20
+	android:extractNativeLibs
+		INJECTED from C:\Users\Neda Anjum\Downloads\PDD PROJECT\app\src\main\AndroidManifest.xml
+	android:appComponentFactory
+		ADDED from [androidx.core:core:1.12.0] C:\Users\Neda Anjum\.gradle\caches\transforms-3\5db2b505a31b793bd324959698e0065f\transformed\core-1.12.0\AndroidManifest.xml:28:18-86
+	android:supportsRtl
+		ADDED from C:\Users\Neda Anjum\Downloads\PDD PROJECT\app\src\main\AndroidManifest.xml:19:9-35
+	android:label
+		ADDED from C:\Users\Neda Anjum\Downloads\PDD PROJECT\app\src\main\AndroidManifest.xml:17:9-41
+	android:roundIcon
+		ADDED from C:\Users\Neda Anjum\Downloads\PDD PROJECT\app\src\main\AndroidManifest.xml:18:9-54
+	android:icon
+		ADDED from C:\Users\Neda Anjum\Downloads\PDD PROJECT\app\src\main\AndroidManifest.xml:16:9-43
+	android:allowBackup
+		ADDED from C:\Users\Neda Anjum\Downloads\PDD PROJECT\app\src\main\AndroidManifest.xml:15:9-35
+	android:theme
+		ADDED from C:\Users\Neda Anjum\Downloads\PDD PROJECT\app\src\main\AndroidManifest.xml:20:9-53
+	android:usesCleartextTraffic
+		ADDED from C:\Users\Neda Anjum\Downloads\PDD PROJECT\app\src\main\AndroidManifest.xml:21:9-44
+	android:name
+		ADDED from C:\Users\Neda Anjum\Downloads\PDD PROJECT\app\src\main\AndroidManifest.xml:14:9-39
+activity#com.smartdental.care.ui.splash.SplashActivity
+ADDED from C:\Users\Neda Anjum\Downloads\PDD PROJECT\app\src\main\AndroidManifest.xml:23:9-31:20
+	android:exported
+		ADDED from C:\Users\Neda Anjum\Downloads\PDD PROJECT\app\src\main\AndroidManifest.xml:25:13-36
+	android:theme
+		ADDED from C:\Users\Neda Anjum\Downloads\PDD PROJECT\app\src\main\AndroidManifest.xml:26:13-57
+	android:name
+		ADDED from C:\Users\Neda Anjum\Downloads\PDD PROJECT\app\src\main\AndroidManifest.xml:24:13-53
+intent-filter#action:name:android.intent.action.MAIN+category:name:android.intent.category.LAUNCHER
+ADDED from C:\Users\Neda Anjum\Downloads\PDD PROJECT\app\src\main\AndroidManifest.xml:27:13-30:29
+action#android.intent.action.MAIN
+ADDED from C:\Users\Neda Anjum\Downloads\PDD PROJECT\app\src\main\AndroidManifest.xml:28:17-69
+	android:name
+		ADDED from C:\Users\Neda Anjum\Downloads\PDD PROJECT\app\src\main\AndroidManifest.xml:28:25-66
+category#android.intent.category.LAUNCHER
+ADDED from C:\Users\Neda Anjum\Downloads\PDD PROJECT\app\src\main\AndroidManifest.xml:29:17-77
+	android:name
+		ADDED from C:\Users\Neda Anjum\Downloads\PDD PROJECT\app\src\main\AndroidManifest.xml:29:27-74
+activity#com.smartdental.care.ui.onboarding.OnboardingActivity
+ADDED from C:\Users\Neda Anjum\Downloads\PDD PROJECT\app\src\main\AndroidManifest.xml:33:9-70
+	android:name
+		ADDED from C:\Users\Neda Anjum\Downloads\PDD PROJECT\app\src\main\AndroidManifest.xml:33:19-67
+activity#com.smartdental.care.ui.onboarding.ConsentActivity
+ADDED from C:\Users\Neda Anjum\Downloads\PDD PROJECT\app\src\main\AndroidManifest.xml:34:9-67
+	android:name
+		ADDED from C:\Users\Neda Anjum\Downloads\PDD PROJECT\app\src\main\AndroidManifest.xml:34:19-64
+activity#com.smartdental.care.ui.login.DoctorLoginActivity
+ADDED from C:\Users\Neda Anjum\Downloads\PDD PROJECT\app\src\main\AndroidManifest.xml:36:9-39:58
+	android:windowSoftInputMode
+		ADDED from C:\Users\Neda Anjum\Downloads\PDD PROJECT\app\src\main\AndroidManifest.xml:39:13-55
+	android:exported
+		ADDED from C:\Users\Neda Anjum\Downloads\PDD PROJECT\app\src\main\AndroidManifest.xml:38:13-37
+	android:name
+		ADDED from C:\Users\Neda Anjum\Downloads\PDD PROJECT\app\src\main\AndroidManifest.xml:37:13-57
+activity#com.smartdental.care.ui.login.SignUpActivity
+ADDED from C:\Users\Neda Anjum\Downloads\PDD PROJECT\app\src\main\AndroidManifest.xml:41:9-61
+	android:name
+		ADDED from C:\Users\Neda Anjum\Downloads\PDD PROJECT\app\src\main\AndroidManifest.xml:41:19-58
+activity#com.smartdental.care.ui.login.ForgotPasswordActivity
+ADDED from C:\Users\Neda Anjum\Downloads\PDD PROJECT\app\src\main\AndroidManifest.xml:42:9-69
+	android:name
+		ADDED from C:\Users\Neda Anjum\Downloads\PDD PROJECT\app\src\main\AndroidManifest.xml:42:19-66
+activity#com.smartdental.care.ui.login.EmailOtpActivity
+ADDED from C:\Users\Neda Anjum\Downloads\PDD PROJECT\app\src\main\AndroidManifest.xml:43:9-63
+	android:name
+		ADDED from C:\Users\Neda Anjum\Downloads\PDD PROJECT\app\src\main\AndroidManifest.xml:43:19-60
+activity#com.smartdental.care.ui.login.VerifyOtpActivity
+ADDED from C:\Users\Neda Anjum\Downloads\PDD PROJECT\app\src\main\AndroidManifest.xml:44:9-64
+	android:name
+		ADDED from C:\Users\Neda Anjum\Downloads\PDD PROJECT\app\src\main\AndroidManifest.xml:44:19-61
+activity#com.smartdental.care.ui.login.ResetPasswordActivity
+ADDED from C:\Users\Neda Anjum\Downloads\PDD PROJECT\app\src\main\AndroidManifest.xml:45:9-68
+	android:name
+		ADDED from C:\Users\Neda Anjum\Downloads\PDD PROJECT\app\src\main\AndroidManifest.xml:45:19-65
+activity#com.smartdental.care.ui.login.AuthCallbackActivity
+ADDED from C:\Users\Neda Anjum\Downloads\PDD PROJECT\app\src\main\AndroidManifest.xml:52:9-79:20
+	android:launchMode
+		ADDED from C:\Users\Neda Anjum\Downloads\PDD PROJECT\app\src\main\AndroidManifest.xml:55:13-44
+	android:exported
+		ADDED from C:\Users\Neda Anjum\Downloads\PDD PROJECT\app\src\main\AndroidManifest.xml:54:13-36
+	android:name
+		ADDED from C:\Users\Neda Anjum\Downloads\PDD PROJECT\app\src\main\AndroidManifest.xml:53:13-58
+intent-filter#action:name:android.intent.action.VIEW+category:name:android.intent.category.BROWSABLE+category:name:android.intent.category.DEFAULT+data:host:auth+data:pathPrefix:/callback+data:scheme:smartdental
+ADDED from C:\Users\Neda Anjum\Downloads\PDD PROJECT\app\src\main\AndroidManifest.xml:58:13-66:29
+action#android.intent.action.VIEW
+ADDED from C:\Users\Neda Anjum\Downloads\PDD PROJECT\app\src\main\AndroidManifest.xml:59:17-69
+	android:name
+		ADDED from C:\Users\Neda Anjum\Downloads\PDD PROJECT\app\src\main\AndroidManifest.xml:59:25-66
+category#android.intent.category.DEFAULT
+ADDED from C:\Users\Neda Anjum\Downloads\PDD PROJECT\app\src\main\AndroidManifest.xml:60:17-76
+	android:name
+		ADDED from C:\Users\Neda Anjum\Downloads\PDD PROJECT\app\src\main\AndroidManifest.xml:60:27-73
+category#android.intent.category.BROWSABLE
+ADDED from C:\Users\Neda Anjum\Downloads\PDD PROJECT\app\src\main\AndroidManifest.xml:61:17-78
+	android:name
+		ADDED from C:\Users\Neda Anjum\Downloads\PDD PROJECT\app\src\main\AndroidManifest.xml:61:27-75
+data
+ADDED from C:\Users\Neda Anjum\Downloads\PDD PROJECT\app\src\main\AndroidManifest.xml:62:17-65:54
+	android:host
+		ADDED from C:\Users\Neda Anjum\Downloads\PDD PROJECT\app\src\main\AndroidManifest.xml:64:21-40
+	android:scheme
+		ADDED from C:\Users\Neda Anjum\Downloads\PDD PROJECT\app\src\main\AndroidManifest.xml:63:21-49
+	android:pathPrefix
+		ADDED from C:\Users\Neda Anjum\Downloads\PDD PROJECT\app\src\main\AndroidManifest.xml:65:21-51
+intent-filter#action:name:android.intent.action.VIEW+category:name:android.intent.category.BROWSABLE+category:name:android.intent.category.DEFAULT+data:host:auth+data:pathPrefix:/reset+data:scheme:smartdental
+ADDED from C:\Users\Neda Anjum\Downloads\PDD PROJECT\app\src\main\AndroidManifest.xml:69:13-77:29
+activity#com.smartdental.care.ui.dashboard.DoctorDashboardActivity
+ADDED from C:\Users\Neda Anjum\Downloads\PDD PROJECT\app\src\main\AndroidManifest.xml:81:9-74
+	android:name
+		ADDED from C:\Users\Neda Anjum\Downloads\PDD PROJECT\app\src\main\AndroidManifest.xml:81:19-71
+activity#com.smartdental.care.ui.dashboard.PatientRecordsActivity
+ADDED from C:\Users\Neda Anjum\Downloads\PDD PROJECT\app\src\main\AndroidManifest.xml:82:9-73
+	android:name
+		ADDED from C:\Users\Neda Anjum\Downloads\PDD PROJECT\app\src\main\AndroidManifest.xml:82:19-70
+activity#com.smartdental.care.ui.appointments.AppointmentsActivity
+ADDED from C:\Users\Neda Anjum\Downloads\PDD PROJECT\app\src\main\AndroidManifest.xml:84:9-74
+	android:name
+		ADDED from C:\Users\Neda Anjum\Downloads\PDD PROJECT\app\src\main\AndroidManifest.xml:84:19-71
+activity#com.smartdental.care.ui.appointments.PatientDetailActivity
+ADDED from C:\Users\Neda Anjum\Downloads\PDD PROJECT\app\src\main\AndroidManifest.xml:85:9-75
+	android:name
+		ADDED from C:\Users\Neda Anjum\Downloads\PDD PROJECT\app\src\main\AndroidManifest.xml:85:19-72
+activity#com.smartdental.care.ui.appointments.RegistrationActivity
+ADDED from C:\Users\Neda Anjum\Downloads\PDD PROJECT\app\src\main\AndroidManifest.xml:86:9-74
+	android:name
+		ADDED from C:\Users\Neda Anjum\Downloads\PDD PROJECT\app\src\main\AndroidManifest.xml:86:19-71
+activity#com.smartdental.care.ui.appointments.SignatureActivity
+ADDED from C:\Users\Neda Anjum\Downloads\PDD PROJECT\app\src\main\AndroidManifest.xml:87:9-71
+	android:name
+		ADDED from C:\Users\Neda Anjum\Downloads\PDD PROJECT\app\src\main\AndroidManifest.xml:87:19-68
+activity#com.smartdental.care.ui.appointments.ChartingActivity
+ADDED from C:\Users\Neda Anjum\Downloads\PDD PROJECT\app\src\main\AndroidManifest.xml:88:9-70
+	android:name
+		ADDED from C:\Users\Neda Anjum\Downloads\PDD PROJECT\app\src\main\AndroidManifest.xml:88:19-67
+activity#com.smartdental.care.ui.appointments.DoctorSpeechToTextActivity
+ADDED from C:\Users\Neda Anjum\Downloads\PDD PROJECT\app\src\main\AndroidManifest.xml:89:9-80
+	android:name
+		ADDED from C:\Users\Neda Anjum\Downloads\PDD PROJECT\app\src\main\AndroidManifest.xml:89:19-77
+activity#com.smartdental.care.ui.appointments.StlScanActivity
+ADDED from C:\Users\Neda Anjum\Downloads\PDD PROJECT\app\src\main\AndroidManifest.xml:90:9-69
+	android:name
+		ADDED from C:\Users\Neda Anjum\Downloads\PDD PROJECT\app\src\main\AndroidManifest.xml:90:19-66
+activity#com.smartdental.care.ui.appointments.DentalPhotoComparisonActivity
+ADDED from C:\Users\Neda Anjum\Downloads\PDD PROJECT\app\src\main\AndroidManifest.xml:91:9-83
+	android:name
+		ADDED from C:\Users\Neda Anjum\Downloads\PDD PROJECT\app\src\main\AndroidManifest.xml:91:19-80
+activity#com.smartdental.care.ui.appointments.BillingActivity
+ADDED from C:\Users\Neda Anjum\Downloads\PDD PROJECT\app\src\main\AndroidManifest.xml:92:9-69
+	android:name
+		ADDED from C:\Users\Neda Anjum\Downloads\PDD PROJECT\app\src\main\AndroidManifest.xml:92:19-66
+activity#com.smartdental.care.ui.dashboard.DoctorProfileActivity
+ADDED from C:\Users\Neda Anjum\Downloads\PDD PROJECT\app\src\main\AndroidManifest.xml:93:9-72
+	android:name
+		ADDED from C:\Users\Neda Anjum\Downloads\PDD PROJECT\app\src\main\AndroidManifest.xml:93:19-69
+activity#com.smartdental.care.ui.appointments.PrescriptionActivity
+ADDED from C:\Users\Neda Anjum\Downloads\PDD PROJECT\app\src\main\AndroidManifest.xml:94:9-74
+	android:name
+		ADDED from C:\Users\Neda Anjum\Downloads\PDD PROJECT\app\src\main\AndroidManifest.xml:94:19-71
+activity#com.smartdental.care.ui.appointments.PaymentSuccessActivity
+ADDED from C:\Users\Neda Anjum\Downloads\PDD PROJECT\app\src\main\AndroidManifest.xml:95:9-76
+	android:name
+		ADDED from C:\Users\Neda Anjum\Downloads\PDD PROJECT\app\src\main\AndroidManifest.xml:95:19-73
+activity#com.smartdental.care.ui.appointments.PatientNotesActivity
+ADDED from C:\Users\Neda Anjum\Downloads\PDD PROJECT\app\src\main\AndroidManifest.xml:96:9-74
+	android:name
+		ADDED from C:\Users\Neda Anjum\Downloads\PDD PROJECT\app\src\main\AndroidManifest.xml:96:19-71
+activity#com.smartdental.care.ui.appointments.OnlineConsultationActivity
+ADDED from C:\Users\Neda Anjum\Downloads\PDD PROJECT\app\src\main\AndroidManifest.xml:97:9-80
+	android:name
+		ADDED from C:\Users\Neda Anjum\Downloads\PDD PROJECT\app\src\main\AndroidManifest.xml:97:19-77
+activity#com.smartdental.care.ui.appointments.PatientReportsActivity
+ADDED from C:\Users\Neda Anjum\Downloads\PDD PROJECT\app\src\main\AndroidManifest.xml:98:9-76
+	android:name
+		ADDED from C:\Users\Neda Anjum\Downloads\PDD PROJECT\app\src\main\AndroidManifest.xml:98:19-73
+receiver#com.smartdental.care.util.ReminderReceiver
+ADDED from C:\Users\Neda Anjum\Downloads\PDD PROJECT\app\src\main\AndroidManifest.xml:101:9-103:40
+	android:exported
+		ADDED from C:\Users\Neda Anjum\Downloads\PDD PROJECT\app\src\main\AndroidManifest.xml:103:13-37
+	android:name
+		ADDED from C:\Users\Neda Anjum\Downloads\PDD PROJECT\app\src\main\AndroidManifest.xml:102:13-50
+uses-sdk
+INJECTED from C:\Users\Neda Anjum\Downloads\PDD PROJECT\app\src\main\AndroidManifest.xml reason: use-sdk injection requested
+INJECTED from C:\Users\Neda Anjum\Downloads\PDD PROJECT\app\src\main\AndroidManifest.xml
+INJECTED from C:\Users\Neda Anjum\Downloads\PDD PROJECT\app\src\main\AndroidManifest.xml
+MERGED from [androidx.databinding:viewbinding:8.2.2] C:\Users\Neda Anjum\.gradle\caches\transforms-3\5e559a96aaee1355e8422fb9a02aac93\transformed\viewbinding-8.2.2\AndroidManifest.xml:5:5-44
+MERGED from [androidx.databinding:viewbinding:8.2.2] C:\Users\Neda Anjum\.gradle\caches\transforms-3\5e559a96aaee1355e8422fb9a02aac93\transformed\viewbinding-8.2.2\AndroidManifest.xml:5:5-44
+MERGED from [com.google.android.material:material:1.11.0] C:\Users\Neda Anjum\.gradle\caches\transforms-3\eda1e774c0f553359a7454045b76bd5c\transformed\material-1.11.0\AndroidManifest.xml:20:5-44
+MERGED from [com.google.android.material:material:1.11.0] C:\Users\Neda Anjum\.gradle\caches\transforms-3\eda1e774c0f553359a7454045b76bd5c\transformed\material-1.11.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.constraintlayout:constraintlayout:2.1.4] C:\Users\Neda Anjum\.gradle\caches\transforms-3\dc410120b9559c7e13a8fa643a08813f\transformed\constraintlayout-2.1.4\AndroidManifest.xml:5:5-7:41
+MERGED from [androidx.constraintlayout:constraintlayout:2.1.4] C:\Users\Neda Anjum\.gradle\caches\transforms-3\dc410120b9559c7e13a8fa643a08813f\transformed\constraintlayout-2.1.4\AndroidManifest.xml:5:5-7:41
+MERGED from [androidx.appcompat:appcompat-resources:1.6.1] C:\Users\Neda Anjum\.gradle\caches\transforms-3\45b8b686f550f5fc073749c5b2270343\transformed\appcompat-resources-1.6.1\AndroidManifest.xml:20:5-44
+MERGED from [androidx.appcompat:appcompat-resources:1.6.1] C:\Users\Neda Anjum\.gradle\caches\transforms-3\45b8b686f550f5fc073749c5b2270343\transformed\appcompat-resources-1.6.1\AndroidManifest.xml:20:5-44
+MERGED from [androidx.appcompat:appcompat:1.6.1] C:\Users\Neda Anjum\.gradle\caches\transforms-3\b1ddf2622883fe527777886760efcd28\transformed\appcompat-1.6.1\AndroidManifest.xml:20:5-44
+MERGED from [androidx.appcompat:appcompat:1.6.1] C:\Users\Neda Anjum\.gradle\caches\transforms-3\b1ddf2622883fe527777886760efcd28\transformed\appcompat-1.6.1\AndroidManifest.xml:20:5-44
+MERGED from [androidx.emoji2:emoji2-views-helper:1.2.0] C:\Users\Neda Anjum\.gradle\caches\transforms-3\3e2da2ae5a3bedbea9d626cb53cec340\transformed\emoji2-views-helper-1.2.0\AndroidManifest.xml:5:5-44
+MERGED from [androidx.emoji2:emoji2-views-helper:1.2.0] C:\Users\Neda Anjum\.gradle\caches\transforms-3\3e2da2ae5a3bedbea9d626cb53cec340\transformed\emoji2-views-helper-1.2.0\AndroidManifest.xml:5:5-44
+MERGED from [androidx.emoji2:emoji2:1.2.0] C:\Users\Neda Anjum\.gradle\caches\transforms-3\c89e8dedd0bd3e567527b2fcd2e1b489\transformed\emoji2-1.2.0\AndroidManifest.xml:21:5-44
+MERGED from [androidx.emoji2:emoji2:1.2.0] C:\Users\Neda Anjum\.gradle\caches\transforms-3\c89e8dedd0bd3e567527b2fcd2e1b489\transformed\emoji2-1.2.0\AndroidManifest.xml:21:5-44
+MERGED from [androidx.viewpager2:viewpager2:1.0.0] C:\Users\Neda Anjum\.gradle\caches\transforms-3\bc406b31ffd594eedc6a407330ea110a\transformed\viewpager2-1.0.0\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.viewpager2:viewpager2:1.0.0] C:\Users\Neda Anjum\.gradle\caches\transforms-3\bc406b31ffd594eedc6a407330ea110a\transformed\viewpager2-1.0.0\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.fragment:fragment:1.3.6] C:\Users\Neda Anjum\.gradle\caches\transforms-3\8468b36e2c0fcf20b4b2dc18befc6b16\transformed\fragment-1.3.6\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.fragment:fragment:1.3.6] C:\Users\Neda Anjum\.gradle\caches\transforms-3\8468b36e2c0fcf20b4b2dc18befc6b16\transformed\fragment-1.3.6\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.activity:activity:1.8.0] C:\Users\Neda Anjum\.gradle\caches\transforms-3\440663af5b7924d1b5df08869d2430b6\transformed\activity-1.8.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.activity:activity:1.8.0] C:\Users\Neda Anjum\.gradle\caches\transforms-3\440663af5b7924d1b5df08869d2430b6\transformed\activity-1.8.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.drawerlayout:drawerlayout:1.1.1] C:\Users\Neda Anjum\.gradle\caches\transforms-3\914699772a3318637c193326125999cc\transformed\drawerlayout-1.1.1\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.drawerlayout:drawerlayout:1.1.1] C:\Users\Neda Anjum\.gradle\caches\transforms-3\914699772a3318637c193326125999cc\transformed\drawerlayout-1.1.1\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.coordinatorlayout:coordinatorlayout:1.1.0] C:\Users\Neda Anjum\.gradle\caches\transforms-3\f6d8a4ae17c758bf5e1339ad6f37d9d3\transformed\coordinatorlayout-1.1.0\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.coordinatorlayout:coordinatorlayout:1.1.0] C:\Users\Neda Anjum\.gradle\caches\transforms-3\f6d8a4ae17c758bf5e1339ad6f37d9d3\transformed\coordinatorlayout-1.1.0\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.dynamicanimation:dynamicanimation:1.0.0] C:\Users\Neda Anjum\.gradle\caches\transforms-3\74fbc87f162745dc65f718de5a005a12\transformed\dynamicanimation-1.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.dynamicanimation:dynamicanimation:1.0.0] C:\Users\Neda Anjum\.gradle\caches\transforms-3\74fbc87f162745dc65f718de5a005a12\transformed\dynamicanimation-1.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.transition:transition:1.2.0] C:\Users\Neda Anjum\.gradle\caches\transforms-3\c3601f60d94396414df3f7ed5c8dc6de\transformed\transition-1.2.0\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.transition:transition:1.2.0] C:\Users\Neda Anjum\.gradle\caches\transforms-3\c3601f60d94396414df3f7ed5c8dc6de\transformed\transition-1.2.0\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.vectordrawable:vectordrawable-animated:1.1.0] C:\Users\Neda Anjum\.gradle\caches\transforms-3\36ac8cd3dc60eff5bbc73d2fbce25605\transformed\vectordrawable-animated-1.1.0\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.vectordrawable:vectordrawable-animated:1.1.0] C:\Users\Neda Anjum\.gradle\caches\transforms-3\36ac8cd3dc60eff5bbc73d2fbce25605\transformed\vectordrawable-animated-1.1.0\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.vectordrawable:vectordrawable:1.1.0] C:\Users\Neda Anjum\.gradle\caches\transforms-3\f808716fa31c756da072603a211f6153\transformed\vectordrawable-1.1.0\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.vectordrawable:vectordrawable:1.1.0] C:\Users\Neda Anjum\.gradle\caches\transforms-3\f808716fa31c756da072603a211f6153\transformed\vectordrawable-1.1.0\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.viewpager:viewpager:1.0.0] C:\Users\Neda Anjum\.gradle\caches\transforms-3\81a23dafa540fb6fb5f28a9c6583404e\transformed\viewpager-1.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.viewpager:viewpager:1.0.0] C:\Users\Neda Anjum\.gradle\caches\transforms-3\81a23dafa540fb6fb5f28a9c6583404e\transformed\viewpager-1.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.legacy:legacy-support-core-utils:1.0.0] C:\Users\Neda Anjum\.gradle\caches\transforms-3\9c2ec2e1e32fc02ea7ba685546e9daa7\transformed\legacy-support-core-utils-1.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.legacy:legacy-support-core-utils:1.0.0] C:\Users\Neda Anjum\.gradle\caches\transforms-3\9c2ec2e1e32fc02ea7ba685546e9daa7\transformed\legacy-support-core-utils-1.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.loader:loader:1.0.0] C:\Users\Neda Anjum\.gradle\caches\transforms-3\1bd10dd69f19ed93bf3c944446ed044f\transformed\loader-1.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.loader:loader:1.0.0] C:\Users\Neda Anjum\.gradle\caches\transforms-3\1bd10dd69f19ed93bf3c944446ed044f\transformed\loader-1.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.recyclerview:recyclerview:1.1.0] C:\Users\Neda Anjum\.gradle\caches\transforms-3\fd517cdb2c48fe965fe7d7771cabcbd7\transformed\recyclerview-1.1.0\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.recyclerview:recyclerview:1.1.0] C:\Users\Neda Anjum\.gradle\caches\transforms-3\fd517cdb2c48fe965fe7d7771cabcbd7\transformed\recyclerview-1.1.0\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.customview:customview:1.1.0] C:\Users\Neda Anjum\.gradle\caches\transforms-3\e5ec4fe824ba1757e9ec0b8bfb5a15b2\transformed\customview-1.1.0\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.customview:customview:1.1.0] C:\Users\Neda Anjum\.gradle\caches\transforms-3\e5ec4fe824ba1757e9ec0b8bfb5a15b2\transformed\customview-1.1.0\AndroidManifest.xml:20:5-22:41
+MERGED from [io.github.jan-tennert.supabase:postgrest-kt-android-debug:2.6.1] C:\Users\Neda Anjum\.gradle\caches\transforms-3\5ce14b1886ba00f8540cccb85a0e40e3\transformed\postgrest-kt-debug\AndroidManifest.xml:5:5-44
+MERGED from [io.github.jan-tennert.supabase:postgrest-kt-android-debug:2.6.1] C:\Users\Neda Anjum\.gradle\caches\transforms-3\5ce14b1886ba00f8540cccb85a0e40e3\transformed\postgrest-kt-debug\AndroidManifest.xml:5:5-44
+MERGED from [io.github.jan-tennert.supabase:storage-kt-android-debug:2.6.1] C:\Users\Neda Anjum\.gradle\caches\transforms-3\bf75a5c547635f14504ac0f973682f30\transformed\storage-kt-debug\AndroidManifest.xml:6:5-44
+MERGED from [io.github.jan-tennert.supabase:storage-kt-android-debug:2.6.1] C:\Users\Neda Anjum\.gradle\caches\transforms-3\bf75a5c547635f14504ac0f973682f30\transformed\storage-kt-debug\AndroidManifest.xml:6:5-44
+MERGED from [io.github.jan-tennert.supabase:gotrue-kt-android-debug:2.6.1] C:\Users\Neda Anjum\.gradle\caches\transforms-3\0d5941bec1fb58ac95c285e19e0ead1c\transformed\gotrue-kt-debug\AndroidManifest.xml:6:5-44
+MERGED from [io.github.jan-tennert.supabase:gotrue-kt-android-debug:2.6.1] C:\Users\Neda Anjum\.gradle\caches\transforms-3\0d5941bec1fb58ac95c285e19e0ead1c\transformed\gotrue-kt-debug\AndroidManifest.xml:6:5-44
+MERGED from [androidx.browser:browser:1.8.0] C:\Users\Neda Anjum\.gradle\caches\transforms-3\70fe84f68e54dbc0c7b3151cb0f3cc5b\transformed\browser-1.8.0\AndroidManifest.xml:5:5-44
+MERGED from [androidx.browser:browser:1.8.0] C:\Users\Neda Anjum\.gradle\caches\transforms-3\70fe84f68e54dbc0c7b3151cb0f3cc5b\transformed\browser-1.8.0\AndroidManifest.xml:5:5-44
+MERGED from [androidx.core:core:1.12.0] C:\Users\Neda Anjum\.gradle\caches\transforms-3\5db2b505a31b793bd324959698e0065f\transformed\core-1.12.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.core:core:1.12.0] C:\Users\Neda Anjum\.gradle\caches\transforms-3\5db2b505a31b793bd324959698e0065f\transformed\core-1.12.0\AndroidManifest.xml:20:5-44
+MERGED from [io.github.jan-tennert.supabase:supabase-kt-android-debug:2.6.1] C:\Users\Neda Anjum\.gradle\caches\transforms-3\15a3bec9840ab8b0e0a75967a77c2081\transformed\supabase-kt-debug\AndroidManifest.xml:5:5-44
+MERGED from [io.github.jan-tennert.supabase:supabase-kt-android-debug:2.6.1] C:\Users\Neda Anjum\.gradle\caches\transforms-3\15a3bec9840ab8b0e0a75967a77c2081\transformed\supabase-kt-debug\AndroidManifest.xml:5:5-44
+MERGED from [androidx.savedstate:savedstate:1.2.1] C:\Users\Neda Anjum\.gradle\caches\transforms-3\56ad119c44651cbc581b3a7553d69fe6\transformed\savedstate-1.2.1\AndroidManifest.xml:20:5-44
+MERGED from [androidx.savedstate:savedstate:1.2.1] C:\Users\Neda Anjum\.gradle\caches\transforms-3\56ad119c44651cbc581b3a7553d69fe6\transformed\savedstate-1.2.1\AndroidManifest.xml:20:5-44
+MERGED from [androidx.lifecycle:lifecycle-viewmodel:2.8.4] C:\Users\Neda Anjum\.gradle\caches\transforms-3\2e462fa3bf90f3073f1cff16afc8a6c7\transformed\lifecycle-viewmodel-2.8.4\AndroidManifest.xml:4:5-43
+MERGED from [androidx.lifecycle:lifecycle-viewmodel:2.8.4] C:\Users\Neda Anjum\.gradle\caches\transforms-3\2e462fa3bf90f3073f1cff16afc8a6c7\transformed\lifecycle-viewmodel-2.8.4\AndroidManifest.xml:4:5-43
+MERGED from [androidx.lifecycle:lifecycle-viewmodel-android:2.8.4] C:\Users\Neda Anjum\.gradle\caches\transforms-3\a3970d280658d86e888c87b3f929681e\transformed\lifecycle-viewmodel-release\AndroidManifest.xml:20:5-44
+MERGED from [androidx.lifecycle:lifecycle-viewmodel-android:2.8.4] C:\Users\Neda Anjum\.gradle\caches\transforms-3\a3970d280658d86e888c87b3f929681e\transformed\lifecycle-viewmodel-release\AndroidManifest.xml:20:5-44
+MERGED from [androidx.lifecycle:lifecycle-runtime-android:2.8.4] C:\Users\Neda Anjum\.gradle\caches\transforms-3\9368d5572292d64e1a53e6fd94854a24\transformed\lifecycle-runtime-release\AndroidManifest.xml:20:5-44
+MERGED from [androidx.lifecycle:lifecycle-runtime-android:2.8.4] C:\Users\Neda Anjum\.gradle\caches\transforms-3\9368d5572292d64e1a53e6fd94854a24\transformed\lifecycle-runtime-release\AndroidManifest.xml:20:5-44
+MERGED from [androidx.lifecycle:lifecycle-viewmodel-ktx:2.8.4] C:\Users\Neda Anjum\.gradle\caches\transforms-3\7c64d6bf4274cd36316f6eff406c88d7\transformed\lifecycle-viewmodel-ktx-2.8.4\AndroidManifest.xml:5:5-44
+MERGED from [androidx.lifecycle:lifecycle-viewmodel-ktx:2.8.4] C:\Users\Neda Anjum\.gradle\caches\transforms-3\7c64d6bf4274cd36316f6eff406c88d7\transformed\lifecycle-viewmodel-ktx-2.8.4\AndroidManifest.xml:5:5-44
+MERGED from [androidx.lifecycle:lifecycle-livedata-ktx:2.8.4] C:\Users\Neda Anjum\.gradle\caches\transforms-3\a5ce25531fd11459e7819283a40f6732\transformed\lifecycle-livedata-ktx-2.8.4\AndroidManifest.xml:5:5-44
+MERGED from [androidx.lifecycle:lifecycle-livedata-ktx:2.8.4] C:\Users\Neda Anjum\.gradle\caches\transforms-3\a5ce25531fd11459e7819283a40f6732\transformed\lifecycle-livedata-ktx-2.8.4\AndroidManifest.xml:5:5-44
+MERGED from [androidx.lifecycle:lifecycle-livedata-core-ktx:2.8.4] C:\Users\Neda Anjum\.gradle\caches\transforms-3\5229ae5acb9410b33ab1e962429ad244\transformed\lifecycle-livedata-core-ktx-2.8.4\AndroidManifest.xml:5:5-44
+MERGED from [androidx.lifecycle:lifecycle-livedata-core-ktx:2.8.4] C:\Users\Neda Anjum\.gradle\caches\transforms-3\5229ae5acb9410b33ab1e962429ad244\transformed\lifecycle-livedata-core-ktx-2.8.4\AndroidManifest.xml:5:5-44
+MERGED from [androidx.lifecycle:lifecycle-livedata-core:2.8.4] C:\Users\Neda Anjum\.gradle\caches\transforms-3\9ecfda37c2e85d01cd4e34d5c8445839\transformed\lifecycle-livedata-core-2.8.4\AndroidManifest.xml:20:5-44
+MERGED from [androidx.lifecycle:lifecycle-livedata-core:2.8.4] C:\Users\Neda Anjum\.gradle\caches\transforms-3\9ecfda37c2e85d01cd4e34d5c8445839\transformed\lifecycle-livedata-core-2.8.4\AndroidManifest.xml:20:5-44
+MERGED from [androidx.lifecycle:lifecycle-livedata:2.8.4] C:\Users\Neda Anjum\.gradle\caches\transforms-3\dd71c8eeb0f5ea2e3eb23b83ab13d56d\transformed\lifecycle-livedata-2.8.4\AndroidManifest.xml:20:5-44
+MERGED from [androidx.lifecycle:lifecycle-livedata:2.8.4] C:\Users\Neda Anjum\.gradle\caches\transforms-3\dd71c8eeb0f5ea2e3eb23b83ab13d56d\transformed\lifecycle-livedata-2.8.4\AndroidManifest.xml:20:5-44
+MERGED from [androidx.lifecycle:lifecycle-process:2.8.4] C:\Users\Neda Anjum\.gradle\caches\transforms-3\1b1b0f30eb5265f533a5655d1dd181b5\transformed\lifecycle-process-2.8.4\AndroidManifest.xml:21:5-44
+MERGED from [androidx.lifecycle:lifecycle-process:2.8.4] C:\Users\Neda Anjum\.gradle\caches\transforms-3\1b1b0f30eb5265f533a5655d1dd181b5\transformed\lifecycle-process-2.8.4\AndroidManifest.xml:21:5-44
+MERGED from [androidx.lifecycle:lifecycle-viewmodel-savedstate:2.8.4] C:\Users\Neda Anjum\.gradle\caches\transforms-3\a212970b6641810074b0dceea1b5b71c\transformed\lifecycle-viewmodel-savedstate-2.8.4\AndroidManifest.xml:20:5-44
+MERGED from [androidx.lifecycle:lifecycle-viewmodel-savedstate:2.8.4] C:\Users\Neda Anjum\.gradle\caches\transforms-3\a212970b6641810074b0dceea1b5b71c\transformed\lifecycle-viewmodel-savedstate-2.8.4\AndroidManifest.xml:20:5-44
+MERGED from [androidx.core:core-ktx:1.12.0] C:\Users\Neda Anjum\.gradle\caches\transforms-3\f08378fcb0d1bc15607b62ca56d34e6b\transformed\core-ktx-1.12.0\AndroidManifest.xml:5:5-44
+MERGED from [androidx.core:core-ktx:1.12.0] C:\Users\Neda Anjum\.gradle\caches\transforms-3\f08378fcb0d1bc15607b62ca56d34e6b\transformed\core-ktx-1.12.0\AndroidManifest.xml:5:5-44
+MERGED from [com.russhwolf:multiplatform-settings-no-arg-android-debug:1.1.1] C:\Users\Neda Anjum\.gradle\caches\transforms-3\78bdc74b407637dc85cee9e5f6e6df48\transformed\multiplatform-settings-no-arg-debug\AndroidManifest.xml:21:5-44
+MERGED from [com.russhwolf:multiplatform-settings-no-arg-android-debug:1.1.1] C:\Users\Neda Anjum\.gradle\caches\transforms-3\78bdc74b407637dc85cee9e5f6e6df48\transformed\multiplatform-settings-no-arg-debug\AndroidManifest.xml:21:5-44
+MERGED from [com.russhwolf:multiplatform-settings-coroutines-android-debug:1.1.1] C:\Users\Neda Anjum\.gradle\caches\transforms-3\40d2d7735cbe50d0d77543870b27c0d9\transformed\multiplatform-settings-coroutines-debug\AndroidManifest.xml:5:5-44
+MERGED from [com.russhwolf:multiplatform-settings-coroutines-android-debug:1.1.1] C:\Users\Neda Anjum\.gradle\caches\transforms-3\40d2d7735cbe50d0d77543870b27c0d9\transformed\multiplatform-settings-coroutines-debug\AndroidManifest.xml:5:5-44
+MERGED from [androidx.annotation:annotation-experimental:1.4.0] C:\Users\Neda Anjum\.gradle\caches\transforms-3\363b118b782f91ac27f3c553fc9ac417\transformed\annotation-experimental-1.4.0\AndroidManifest.xml:5:5-44
+MERGED from [androidx.annotation:annotation-experimental:1.4.0] C:\Users\Neda Anjum\.gradle\caches\transforms-3\363b118b782f91ac27f3c553fc9ac417\transformed\annotation-experimental-1.4.0\AndroidManifest.xml:5:5-44
+MERGED from [com.russhwolf:multiplatform-settings-android-debug:1.1.1] C:\Users\Neda Anjum\.gradle\caches\transforms-3\14662be9f0dc2a8905d890cc5e9e2984\transformed\multiplatform-settings-debug\AndroidManifest.xml:5:5-44
+MERGED from [com.russhwolf:multiplatform-settings-android-debug:1.1.1] C:\Users\Neda Anjum\.gradle\caches\transforms-3\14662be9f0dc2a8905d890cc5e9e2984\transformed\multiplatform-settings-debug\AndroidManifest.xml:5:5-44
+MERGED from [co.touchlab:kermit-android-debug:2.0.4] C:\Users\Neda Anjum\.gradle\caches\transforms-3\bc3816eacbc7b542e4d74b24826a0302\transformed\kermit-debug\AndroidManifest.xml:5:5-44
+MERGED from [co.touchlab:kermit-android-debug:2.0.4] C:\Users\Neda Anjum\.gradle\caches\transforms-3\bc3816eacbc7b542e4d74b24826a0302\transformed\kermit-debug\AndroidManifest.xml:5:5-44
+MERGED from [co.touchlab:kermit-core-android-debug:2.0.4] C:\Users\Neda Anjum\.gradle\caches\transforms-3\1f7cf31fca4afafa92d8c098fc2120c6\transformed\kermit-core-debug\AndroidManifest.xml:5:5-44
+MERGED from [co.touchlab:kermit-core-android-debug:2.0.4] C:\Users\Neda Anjum\.gradle\caches\transforms-3\1f7cf31fca4afafa92d8c098fc2120c6\transformed\kermit-core-debug\AndroidManifest.xml:5:5-44
+MERGED from [androidx.cursoradapter:cursoradapter:1.0.0] C:\Users\Neda Anjum\.gradle\caches\transforms-3\56545f51ab14ed1915c81ff26b2ba668\transformed\cursoradapter-1.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.cursoradapter:cursoradapter:1.0.0] C:\Users\Neda Anjum\.gradle\caches\transforms-3\56545f51ab14ed1915c81ff26b2ba668\transformed\cursoradapter-1.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.cardview:cardview:1.0.0] C:\Users\Neda Anjum\.gradle\caches\transforms-3\6d689c7085e723d2351664a05595856d\transformed\cardview-1.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.cardview:cardview:1.0.0] C:\Users\Neda Anjum\.gradle\caches\transforms-3\6d689c7085e723d2351664a05595856d\transformed\cardview-1.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.interpolator:interpolator:1.0.0] C:\Users\Neda Anjum\.gradle\caches\transforms-3\5420e7798e89edb16f49ba0e143fac3d\transformed\interpolator-1.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.interpolator:interpolator:1.0.0] C:\Users\Neda Anjum\.gradle\caches\transforms-3\5420e7798e89edb16f49ba0e143fac3d\transformed\interpolator-1.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.versionedparcelable:versionedparcelable:1.1.1] C:\Users\Neda Anjum\.gradle\caches\transforms-3\887e48aa02a845d4e67017898841d6b8\transformed\versionedparcelable-1.1.1\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.versionedparcelable:versionedparcelable:1.1.1] C:\Users\Neda Anjum\.gradle\caches\transforms-3\887e48aa02a845d4e67017898841d6b8\transformed\versionedparcelable-1.1.1\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.profileinstaller:profileinstaller:1.3.1] C:\Users\Neda Anjum\.gradle\caches\transforms-3\314c2af84362deb2aed8512bcfed5161\transformed\profileinstaller-1.3.1\AndroidManifest.xml:21:5-44
+MERGED from [androidx.profileinstaller:profileinstaller:1.3.1] C:\Users\Neda Anjum\.gradle\caches\transforms-3\314c2af84362deb2aed8512bcfed5161\transformed\profileinstaller-1.3.1\AndroidManifest.xml:21:5-44
+MERGED from [androidx.startup:startup-runtime:1.1.1] C:\Users\Neda Anjum\.gradle\caches\transforms-3\5e2acfd383a055a3167e85f7966259e3\transformed\startup-runtime-1.1.1\AndroidManifest.xml:21:5-23:41
+MERGED from [androidx.startup:startup-runtime:1.1.1] C:\Users\Neda Anjum\.gradle\caches\transforms-3\5e2acfd383a055a3167e85f7966259e3\transformed\startup-runtime-1.1.1\AndroidManifest.xml:21:5-23:41
+MERGED from [androidx.tracing:tracing:1.0.0] C:\Users\Neda Anjum\.gradle\caches\transforms-3\a80a0ca99a1ca4340727a4af061ffcd6\transformed\tracing-1.0.0\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.tracing:tracing:1.0.0] C:\Users\Neda Anjum\.gradle\caches\transforms-3\a80a0ca99a1ca4340727a4af061ffcd6\transformed\tracing-1.0.0\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.documentfile:documentfile:1.0.0] C:\Users\Neda Anjum\.gradle\caches\transforms-3\d3d311f2088bba6ec4b06ecb78789832\transformed\documentfile-1.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.documentfile:documentfile:1.0.0] C:\Users\Neda Anjum\.gradle\caches\transforms-3\d3d311f2088bba6ec4b06ecb78789832\transformed\documentfile-1.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.localbroadcastmanager:localbroadcastmanager:1.0.0] C:\Users\Neda Anjum\.gradle\caches\transforms-3\bb56b024af6b960041484b68d663db96\transformed\localbroadcastmanager-1.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.localbroadcastmanager:localbroadcastmanager:1.0.0] C:\Users\Neda Anjum\.gradle\caches\transforms-3\bb56b024af6b960041484b68d663db96\transformed\localbroadcastmanager-1.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.print:print:1.0.0] C:\Users\Neda Anjum\.gradle\caches\transforms-3\19159d1e060e3ffac893e1b54426a624\transformed\print-1.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.print:print:1.0.0] C:\Users\Neda Anjum\.gradle\caches\transforms-3\19159d1e060e3ffac893e1b54426a624\transformed\print-1.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.arch.core:core-runtime:2.2.0] C:\Users\Neda Anjum\.gradle\caches\transforms-3\4d97ab5b4450bd24527543fc28cda95f\transformed\core-runtime-2.2.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.arch.core:core-runtime:2.2.0] C:\Users\Neda Anjum\.gradle\caches\transforms-3\4d97ab5b4450bd24527543fc28cda95f\transformed\core-runtime-2.2.0\AndroidManifest.xml:20:5-44
+MERGED from [com.soywiz.korlibs.krypto:krypto-android:4.0.10] C:\Users\Neda Anjum\.gradle\caches\transforms-3\24a5357f5da01e8becd3d264685fe0b8\transformed\krypto-debug\AndroidManifest.xml:5:5-7:41
+MERGED from [com.soywiz.korlibs.krypto:krypto-android:4.0.10] C:\Users\Neda Anjum\.gradle\caches\transforms-3\24a5357f5da01e8becd3d264685fe0b8\transformed\krypto-debug\AndroidManifest.xml:5:5-7:41
+MERGED from [com.google.ai.edge.litert:litert-support:1.0.1] C:\Users\Neda Anjum\.gradle\caches\transforms-3\a0f70f8ed69abd2afe5139fd59afedbf\transformed\litert-support-1.0.1\AndroidManifest.xml:4:3-71
+MERGED from [com.google.ai.edge.litert:litert-support:1.0.1] C:\Users\Neda Anjum\.gradle\caches\transforms-3\a0f70f8ed69abd2afe5139fd59afedbf\transformed\litert-support-1.0.1\AndroidManifest.xml:4:3-71
+MERGED from [com.google.ai.edge.litert:litert-support-api:1.0.1] C:\Users\Neda Anjum\.gradle\caches\transforms-3\adc7f3be2780551de4e00a04230dd543\transformed\litert-support-api-1.0.1\AndroidManifest.xml:4:3-71
+MERGED from [com.google.ai.edge.litert:litert-support-api:1.0.1] C:\Users\Neda Anjum\.gradle\caches\transforms-3\adc7f3be2780551de4e00a04230dd543\transformed\litert-support-api-1.0.1\AndroidManifest.xml:4:3-71
+MERGED from [com.google.ai.edge.litert:litert:1.0.1] C:\Users\Neda Anjum\.gradle\caches\transforms-3\b7c170704f67bb4af0016e701394e6b5\transformed\litert-1.0.1\AndroidManifest.xml:6:5-7:38
+MERGED from [com.google.ai.edge.litert:litert:1.0.1] C:\Users\Neda Anjum\.gradle\caches\transforms-3\b7c170704f67bb4af0016e701394e6b5\transformed\litert-1.0.1\AndroidManifest.xml:6:5-7:38
+MERGED from [com.google.ai.edge.litert:litert-api:1.0.1] C:\Users\Neda Anjum\.gradle\caches\transforms-3\e5079f3c57caf10a521ca19d285c4e93\transformed\litert-api-1.0.1\AndroidManifest.xml:6:5-7:38
+MERGED from [com.google.ai.edge.litert:litert-api:1.0.1] C:\Users\Neda Anjum\.gradle\caches\transforms-3\e5079f3c57caf10a521ca19d285c4e93\transformed\litert-api-1.0.1\AndroidManifest.xml:6:5-7:38
+MERGED from [com.google.android.odml:image:1.0.0-beta1] C:\Users\Neda Anjum\.gradle\caches\transforms-3\7dca3242b4e645cfac997d629bfc79e3\transformed\image-1.0.0-beta1\AndroidManifest.xml:5:5-44
+MERGED from [com.google.android.odml:image:1.0.0-beta1] C:\Users\Neda Anjum\.gradle\caches\transforms-3\7dca3242b4e645cfac997d629bfc79e3\transformed\image-1.0.0-beta1\AndroidManifest.xml:5:5-44
+	android:targetSdkVersion
+		INJECTED from C:\Users\Neda Anjum\Downloads\PDD PROJECT\app\src\main\AndroidManifest.xml
+	android:minSdkVersion
+		INJECTED from C:\Users\Neda Anjum\Downloads\PDD PROJECT\app\src\main\AndroidManifest.xml
+provider#androidx.startup.InitializationProvider
+ADDED from [androidx.emoji2:emoji2:1.2.0] C:\Users\Neda Anjum\.gradle\caches\transforms-3\c89e8dedd0bd3e567527b2fcd2e1b489\transformed\emoji2-1.2.0\AndroidManifest.xml:24:9-32:20
+MERGED from [io.github.jan-tennert.supabase:storage-kt-android-debug:2.6.1] C:\Users\Neda Anjum\.gradle\caches\transforms-3\bf75a5c547635f14504ac0f973682f30\transformed\storage-kt-debug\AndroidManifest.xml:9:9-17:20
+MERGED from [io.github.jan-tennert.supabase:storage-kt-android-debug:2.6.1] C:\Users\Neda Anjum\.gradle\caches\transforms-3\bf75a5c547635f14504ac0f973682f30\transformed\storage-kt-debug\AndroidManifest.xml:9:9-17:20
+MERGED from [io.github.jan-tennert.supabase:gotrue-kt-android-debug:2.6.1] C:\Users\Neda Anjum\.gradle\caches\transforms-3\0d5941bec1fb58ac95c285e19e0ead1c\transformed\gotrue-kt-debug\AndroidManifest.xml:9:9-17:20
+MERGED from [io.github.jan-tennert.supabase:gotrue-kt-android-debug:2.6.1] C:\Users\Neda Anjum\.gradle\caches\transforms-3\0d5941bec1fb58ac95c285e19e0ead1c\transformed\gotrue-kt-debug\AndroidManifest.xml:9:9-17:20
+MERGED from [androidx.lifecycle:lifecycle-process:2.8.4] C:\Users\Neda Anjum\.gradle\caches\transforms-3\1b1b0f30eb5265f533a5655d1dd181b5\transformed\lifecycle-process-2.8.4\AndroidManifest.xml:24:9-32:20
+MERGED from [androidx.lifecycle:lifecycle-process:2.8.4] C:\Users\Neda Anjum\.gradle\caches\transforms-3\1b1b0f30eb5265f533a5655d1dd181b5\transformed\lifecycle-process-2.8.4\AndroidManifest.xml:24:9-32:20
+MERGED from [com.russhwolf:multiplatform-settings-no-arg-android-debug:1.1.1] C:\Users\Neda Anjum\.gradle\caches\transforms-3\78bdc74b407637dc85cee9e5f6e6df48\transformed\multiplatform-settings-no-arg-debug\AndroidManifest.xml:24:9-32:20
+MERGED from [com.russhwolf:multiplatform-settings-no-arg-android-debug:1.1.1] C:\Users\Neda Anjum\.gradle\caches\transforms-3\78bdc74b407637dc85cee9e5f6e6df48\transformed\multiplatform-settings-no-arg-debug\AndroidManifest.xml:24:9-32:20
+MERGED from [androidx.profileinstaller:profileinstaller:1.3.1] C:\Users\Neda Anjum\.gradle\caches\transforms-3\314c2af84362deb2aed8512bcfed5161\transformed\profileinstaller-1.3.1\AndroidManifest.xml:24:9-32:20
+MERGED from [androidx.profileinstaller:profileinstaller:1.3.1] C:\Users\Neda Anjum\.gradle\caches\transforms-3\314c2af84362deb2aed8512bcfed5161\transformed\profileinstaller-1.3.1\AndroidManifest.xml:24:9-32:20
+MERGED from [androidx.startup:startup-runtime:1.1.1] C:\Users\Neda Anjum\.gradle\caches\transforms-3\5e2acfd383a055a3167e85f7966259e3\transformed\startup-runtime-1.1.1\AndroidManifest.xml:26:9-30:34
+MERGED from [androidx.startup:startup-runtime:1.1.1] C:\Users\Neda Anjum\.gradle\caches\transforms-3\5e2acfd383a055a3167e85f7966259e3\transformed\startup-runtime-1.1.1\AndroidManifest.xml:26:9-30:34
+	tools:node
+		ADDED from [androidx.emoji2:emoji2:1.2.0] C:\Users\Neda Anjum\.gradle\caches\transforms-3\c89e8dedd0bd3e567527b2fcd2e1b489\transformed\emoji2-1.2.0\AndroidManifest.xml:28:13-31
+	android:authorities
+		ADDED from [androidx.emoji2:emoji2:1.2.0] C:\Users\Neda Anjum\.gradle\caches\transforms-3\c89e8dedd0bd3e567527b2fcd2e1b489\transformed\emoji2-1.2.0\AndroidManifest.xml:26:13-68
+	android:exported
+		ADDED from [androidx.emoji2:emoji2:1.2.0] C:\Users\Neda Anjum\.gradle\caches\transforms-3\c89e8dedd0bd3e567527b2fcd2e1b489\transformed\emoji2-1.2.0\AndroidManifest.xml:27:13-37
+	android:name
+		ADDED from [androidx.emoji2:emoji2:1.2.0] C:\Users\Neda Anjum\.gradle\caches\transforms-3\c89e8dedd0bd3e567527b2fcd2e1b489\transformed\emoji2-1.2.0\AndroidManifest.xml:25:13-67
+meta-data#androidx.emoji2.text.EmojiCompatInitializer
+ADDED from [androidx.emoji2:emoji2:1.2.0] C:\Users\Neda Anjum\.gradle\caches\transforms-3\c89e8dedd0bd3e567527b2fcd2e1b489\transformed\emoji2-1.2.0\AndroidManifest.xml:29:13-31:52
+	android:value
+		ADDED from [androidx.emoji2:emoji2:1.2.0] C:\Users\Neda Anjum\.gradle\caches\transforms-3\c89e8dedd0bd3e567527b2fcd2e1b489\transformed\emoji2-1.2.0\AndroidManifest.xml:31:17-49
+	android:name
+		ADDED from [androidx.emoji2:emoji2:1.2.0] C:\Users\Neda Anjum\.gradle\caches\transforms-3\c89e8dedd0bd3e567527b2fcd2e1b489\transformed\emoji2-1.2.0\AndroidManifest.xml:30:17-75
+meta-data#io.github.jan.supabase.storage.SupabaseInitializer
+ADDED from [io.github.jan-tennert.supabase:storage-kt-android-debug:2.6.1] C:\Users\Neda Anjum\.gradle\caches\transforms-3\bf75a5c547635f14504ac0f973682f30\transformed\storage-kt-debug\AndroidManifest.xml:14:13-16:52
+	android:value
+		ADDED from [io.github.jan-tennert.supabase:storage-kt-android-debug:2.6.1] C:\Users\Neda Anjum\.gradle\caches\transforms-3\bf75a5c547635f14504ac0f973682f30\transformed\storage-kt-debug\AndroidManifest.xml:16:17-49
+	android:name
+		ADDED from [io.github.jan-tennert.supabase:storage-kt-android-debug:2.6.1] C:\Users\Neda Anjum\.gradle\caches\transforms-3\bf75a5c547635f14504ac0f973682f30\transformed\storage-kt-debug\AndroidManifest.xml:15:17-82
+meta-data#io.github.jan.supabase.gotrue.SupabaseInitializer
+ADDED from [io.github.jan-tennert.supabase:gotrue-kt-android-debug:2.6.1] C:\Users\Neda Anjum\.gradle\caches\transforms-3\0d5941bec1fb58ac95c285e19e0ead1c\transformed\gotrue-kt-debug\AndroidManifest.xml:14:13-16:52
+	android:value
+		ADDED from [io.github.jan-tennert.supabase:gotrue-kt-android-debug:2.6.1] C:\Users\Neda Anjum\.gradle\caches\transforms-3\0d5941bec1fb58ac95c285e19e0ead1c\transformed\gotrue-kt-debug\AndroidManifest.xml:16:17-49
+	android:name
+		ADDED from [io.github.jan-tennert.supabase:gotrue-kt-android-debug:2.6.1] C:\Users\Neda Anjum\.gradle\caches\transforms-3\0d5941bec1fb58ac95c285e19e0ead1c\transformed\gotrue-kt-debug\AndroidManifest.xml:15:17-81
+permission#${applicationId}.DYNAMIC_RECEIVER_NOT_EXPORTED_PERMISSION
+ADDED from [androidx.core:core:1.12.0] C:\Users\Neda Anjum\.gradle\caches\transforms-3\5db2b505a31b793bd324959698e0065f\transformed\core-1.12.0\AndroidManifest.xml:22:5-24:47
+	android:protectionLevel
+		ADDED from [androidx.core:core:1.12.0] C:\Users\Neda Anjum\.gradle\caches\transforms-3\5db2b505a31b793bd324959698e0065f\transformed\core-1.12.0\AndroidManifest.xml:24:9-44
+	android:name
+		ADDED from [androidx.core:core:1.12.0] C:\Users\Neda Anjum\.gradle\caches\transforms-3\5db2b505a31b793bd324959698e0065f\transformed\core-1.12.0\AndroidManifest.xml:23:9-81
+permission#com.smartdental.care.DYNAMIC_RECEIVER_NOT_EXPORTED_PERMISSION
+ADDED from [androidx.core:core:1.12.0] C:\Users\Neda Anjum\.gradle\caches\transforms-3\5db2b505a31b793bd324959698e0065f\transformed\core-1.12.0\AndroidManifest.xml:22:5-24:47
+	android:protectionLevel
+		ADDED from [androidx.core:core:1.12.0] C:\Users\Neda Anjum\.gradle\caches\transforms-3\5db2b505a31b793bd324959698e0065f\transformed\core-1.12.0\AndroidManifest.xml:24:9-44
+	android:name
+		ADDED from [androidx.core:core:1.12.0] C:\Users\Neda Anjum\.gradle\caches\transforms-3\5db2b505a31b793bd324959698e0065f\transformed\core-1.12.0\AndroidManifest.xml:23:9-81
+uses-permission#${applicationId}.DYNAMIC_RECEIVER_NOT_EXPORTED_PERMISSION
+ADDED from [androidx.core:core:1.12.0] C:\Users\Neda Anjum\.gradle\caches\transforms-3\5db2b505a31b793bd324959698e0065f\transformed\core-1.12.0\AndroidManifest.xml:26:5-97
+	android:name
+		ADDED from [androidx.core:core:1.12.0] C:\Users\Neda Anjum\.gradle\caches\transforms-3\5db2b505a31b793bd324959698e0065f\transformed\core-1.12.0\AndroidManifest.xml:26:22-94
+uses-permission#com.smartdental.care.DYNAMIC_RECEIVER_NOT_EXPORTED_PERMISSION
+ADDED from [androidx.core:core:1.12.0] C:\Users\Neda Anjum\.gradle\caches\transforms-3\5db2b505a31b793bd324959698e0065f\transformed\core-1.12.0\AndroidManifest.xml:26:5-97
+	android:name
+		ADDED from [androidx.core:core:1.12.0] C:\Users\Neda Anjum\.gradle\caches\transforms-3\5db2b505a31b793bd324959698e0065f\transformed\core-1.12.0\AndroidManifest.xml:26:22-94
+meta-data#androidx.lifecycle.ProcessLifecycleInitializer
+ADDED from [androidx.lifecycle:lifecycle-process:2.8.4] C:\Users\Neda Anjum\.gradle\caches\transforms-3\1b1b0f30eb5265f533a5655d1dd181b5\transformed\lifecycle-process-2.8.4\AndroidManifest.xml:29:13-31:52
+	android:value
+		ADDED from [androidx.lifecycle:lifecycle-process:2.8.4] C:\Users\Neda Anjum\.gradle\caches\transforms-3\1b1b0f30eb5265f533a5655d1dd181b5\transformed\lifecycle-process-2.8.4\AndroidManifest.xml:31:17-49
+	android:name
+		ADDED from [androidx.lifecycle:lifecycle-process:2.8.4] C:\Users\Neda Anjum\.gradle\caches\transforms-3\1b1b0f30eb5265f533a5655d1dd181b5\transformed\lifecycle-process-2.8.4\AndroidManifest.xml:30:17-78
+meta-data#com.russhwolf.settings.SettingsInitializer
+ADDED from [com.russhwolf:multiplatform-settings-no-arg-android-debug:1.1.1] C:\Users\Neda Anjum\.gradle\caches\transforms-3\78bdc74b407637dc85cee9e5f6e6df48\transformed\multiplatform-settings-no-arg-debug\AndroidManifest.xml:29:13-31:52
+	android:value
+		ADDED from [com.russhwolf:multiplatform-settings-no-arg-android-debug:1.1.1] C:\Users\Neda Anjum\.gradle\caches\transforms-3\78bdc74b407637dc85cee9e5f6e6df48\transformed\multiplatform-settings-no-arg-debug\AndroidManifest.xml:31:17-49
+	android:name
+		ADDED from [com.russhwolf:multiplatform-settings-no-arg-android-debug:1.1.1] C:\Users\Neda Anjum\.gradle\caches\transforms-3\78bdc74b407637dc85cee9e5f6e6df48\transformed\multiplatform-settings-no-arg-debug\AndroidManifest.xml:30:17-74
+meta-data#androidx.profileinstaller.ProfileInstallerInitializer
+ADDED from [androidx.profileinstaller:profileinstaller:1.3.1] C:\Users\Neda Anjum\.gradle\caches\transforms-3\314c2af84362deb2aed8512bcfed5161\transformed\profileinstaller-1.3.1\AndroidManifest.xml:29:13-31:52
+	android:value
+		ADDED from [androidx.profileinstaller:profileinstaller:1.3.1] C:\Users\Neda Anjum\.gradle\caches\transforms-3\314c2af84362deb2aed8512bcfed5161\transformed\profileinstaller-1.3.1\AndroidManifest.xml:31:17-49
+	android:name
+		ADDED from [androidx.profileinstaller:profileinstaller:1.3.1] C:\Users\Neda Anjum\.gradle\caches\transforms-3\314c2af84362deb2aed8512bcfed5161\transformed\profileinstaller-1.3.1\AndroidManifest.xml:30:17-85
+receiver#androidx.profileinstaller.ProfileInstallReceiver
+ADDED from [androidx.profileinstaller:profileinstaller:1.3.1] C:\Users\Neda Anjum\.gradle\caches\transforms-3\314c2af84362deb2aed8512bcfed5161\transformed\profileinstaller-1.3.1\AndroidManifest.xml:34:9-52:20
+	android:enabled
+		ADDED from [androidx.profileinstaller:profileinstaller:1.3.1] C:\Users\Neda Anjum\.gradle\caches\transforms-3\314c2af84362deb2aed8512bcfed5161\transformed\profileinstaller-1.3.1\AndroidManifest.xml:37:13-35
+	android:exported
+		ADDED from [androidx.profileinstaller:profileinstaller:1.3.1] C:\Users\Neda Anjum\.gradle\caches\transforms-3\314c2af84362deb2aed8512bcfed5161\transformed\profileinstaller-1.3.1\AndroidManifest.xml:38:13-36
+	android:permission
+		ADDED from [androidx.profileinstaller:profileinstaller:1.3.1] C:\Users\Neda Anjum\.gradle\caches\transforms-3\314c2af84362deb2aed8512bcfed5161\transformed\profileinstaller-1.3.1\AndroidManifest.xml:39:13-57
+	android:directBootAware
+		ADDED from [androidx.profileinstaller:profileinstaller:1.3.1] C:\Users\Neda Anjum\.gradle\caches\transforms-3\314c2af84362deb2aed8512bcfed5161\transformed\profileinstaller-1.3.1\AndroidManifest.xml:36:13-44
+	android:name
+		ADDED from [androidx.profileinstaller:profileinstaller:1.3.1] C:\Users\Neda Anjum\.gradle\caches\transforms-3\314c2af84362deb2aed8512bcfed5161\transformed\profileinstaller-1.3.1\AndroidManifest.xml:35:13-76
+intent-filter#action:name:androidx.profileinstaller.action.INSTALL_PROFILE
+ADDED from [androidx.profileinstaller:profileinstaller:1.3.1] C:\Users\Neda Anjum\.gradle\caches\transforms-3\314c2af84362deb2aed8512bcfed5161\transformed\profileinstaller-1.3.1\AndroidManifest.xml:40:13-42:29
+action#androidx.profileinstaller.action.INSTALL_PROFILE
+ADDED from [androidx.profileinstaller:profileinstaller:1.3.1] C:\Users\Neda Anjum\.gradle\caches\transforms-3\314c2af84362deb2aed8512bcfed5161\transformed\profileinstaller-1.3.1\AndroidManifest.xml:41:17-91
+	android:name
+		ADDED from [androidx.profileinstaller:profileinstaller:1.3.1] C:\Users\Neda Anjum\.gradle\caches\transforms-3\314c2af84362deb2aed8512bcfed5161\transformed\profileinstaller-1.3.1\AndroidManifest.xml:41:25-88
+intent-filter#action:name:androidx.profileinstaller.action.SKIP_FILE
+ADDED from [androidx.profileinstaller:profileinstaller:1.3.1] C:\Users\Neda Anjum\.gradle\caches\transforms-3\314c2af84362deb2aed8512bcfed5161\transformed\profileinstaller-1.3.1\AndroidManifest.xml:43:13-45:29
+action#androidx.profileinstaller.action.SKIP_FILE
+ADDED from [androidx.profileinstaller:profileinstaller:1.3.1] C:\Users\Neda Anjum\.gradle\caches\transforms-3\314c2af84362deb2aed8512bcfed5161\transformed\profileinstaller-1.3.1\AndroidManifest.xml:44:17-85
+	android:name
+		ADDED from [androidx.profileinstaller:profileinstaller:1.3.1] C:\Users\Neda Anjum\.gradle\caches\transforms-3\314c2af84362deb2aed8512bcfed5161\transformed\profileinstaller-1.3.1\AndroidManifest.xml:44:25-82
+intent-filter#action:name:androidx.profileinstaller.action.SAVE_PROFILE
+ADDED from [androidx.profileinstaller:profileinstaller:1.3.1] C:\Users\Neda Anjum\.gradle\caches\transforms-3\314c2af84362deb2aed8512bcfed5161\transformed\profileinstaller-1.3.1\AndroidManifest.xml:46:13-48:29
+action#androidx.profileinstaller.action.SAVE_PROFILE
+ADDED from [androidx.profileinstaller:profileinstaller:1.3.1] C:\Users\Neda Anjum\.gradle\caches\transforms-3\314c2af84362deb2aed8512bcfed5161\transformed\profileinstaller-1.3.1\AndroidManifest.xml:47:17-88
+	android:name
+		ADDED from [androidx.profileinstaller:profileinstaller:1.3.1] C:\Users\Neda Anjum\.gradle\caches\transforms-3\314c2af84362deb2aed8512bcfed5161\transformed\profileinstaller-1.3.1\AndroidManifest.xml:47:25-85
+intent-filter#action:name:androidx.profileinstaller.action.BENCHMARK_OPERATION
+ADDED from [androidx.profileinstaller:profileinstaller:1.3.1] C:\Users\Neda Anjum\.gradle\caches\transforms-3\314c2af84362deb2aed8512bcfed5161\transformed\profileinstaller-1.3.1\AndroidManifest.xml:49:13-51:29
+action#androidx.profileinstaller.action.BENCHMARK_OPERATION
+ADDED from [androidx.profileinstaller:profileinstaller:1.3.1] C:\Users\Neda Anjum\.gradle\caches\transforms-3\314c2af84362deb2aed8512bcfed5161\transformed\profileinstaller-1.3.1\AndroidManifest.xml:50:17-95
+	android:name
+		ADDED from [androidx.profileinstaller:profileinstaller:1.3.1] C:\Users\Neda Anjum\.gradle\caches\transforms-3\314c2af84362deb2aed8512bcfed5161\transformed\profileinstaller-1.3.1\AndroidManifest.xml:50:25-92

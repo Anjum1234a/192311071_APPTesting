@@ -1,0 +1,4 @@
+Poor
+Moderate
+Good
+Excellent
